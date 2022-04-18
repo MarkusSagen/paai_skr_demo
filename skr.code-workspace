@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workspaceExplorer.workspaceStorageDirectory": "/home/markussagen/code",
+    "workspace.isHidden": false
+  }
+}

@@ -1,0 +1,15 @@
+numpy==1.21.2
+requests==2.26.0
+urllib3==1.26.7
+bertopic==0.9.4
+transformers==4.13.0
+sentencepiece
+
+# Streamlit
+streamlit==1.8.1
+st-annotated-text==3.0.0
+streamlit-option-menu==0.3.2
+
+# Plotting
+matplotlib==3.5.1
+plotly==5.7.0

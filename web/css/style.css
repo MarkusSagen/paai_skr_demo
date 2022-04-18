@@ -1,0 +1,31 @@
+/* .appview-container {
+  background: red;
+}
+
+.element-container  {
+  background: blue;
+}
+
+.element-container > .stMarkdown > div {
+  background: green;
+} */
+
+div.css-1r6slb0.e1tzin5v2 {
+  background-color: #EEE;
+  border: 1px solid #DCDCDC;
+  padding: 2% 5% 2% 5%;
+  border-radius: 10px;
+}
+
+div.css-12oz5g7 {
+  padding: 1rem 0rem 0rem 1px !important;
+}
+/* .st-cw > svg {
+  visibility: hidden;
+} */
+
+:root {
+  --primary-background-color: #FCE800;
+  --primary-background-color: #dd0700;
+  --primary-font-color: #222;
+}
