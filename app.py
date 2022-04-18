@@ -41,7 +41,9 @@ probs = get_probs(model_path=MODEL_PATH)
 probs_index_by_topic = get_probs_index_by_topic(model_path=MODEL_PATH)
 topics_per_region = get_topics_per_region(model_path=MODEL_PATH)
 topics_per_municipality = get_topics_per_municipality(model_path=MODEL_PATH)
-topic_model = get_topic_model(model_path=MODEL_PATH)
+topic_model = get_topic_model(
+    model_path=MODEL_PATH, model_name="paraphrase-multilingual-mpnet-base-v2"
+)
 topic_info = get_topic_info(model_path=MODEL_PATH)
 num_probs = len(probs)
 num_topics = len(topics)

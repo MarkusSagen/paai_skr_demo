@@ -10,6 +10,7 @@ import pandas as pd
 import pendulum
 from bertopic import BERTopic
 from nltk.corpus import stopwords
+from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -77,7 +78,7 @@ def create(
     )
 
     topic_model = BERTopic(
-        embedding_model=models[model_name],
+        embedding_model=SentenceTransformer(models[model_name]),
         hdbscan_model=hdbscan_model,
         language=language,
         nr_topics=num_topics,
@@ -120,7 +121,9 @@ def create(
         model_path += f"model_{current_time}"
     Path(model_path).mkdir(parents=True, exist_ok=True)
 
-    topic_model.save(f"{model_path}/model")
+    # Needed for loading and using on CPU
+    topic_model.save(f"{model_path}/model", save_embedding_model=False)
+
     save_numpy(topics, f"{model_path}/topics.npy")
     save_numpy(probs, f"{model_path}/probs.npy")
 

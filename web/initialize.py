@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 from bertopic import BERTopic
+from bertopic.backend._utils import select_backend
+from sentence_transformers import SentenceTransformer
 from topics.np import load_numpy
 
 
@@ -80,8 +82,12 @@ def get_topics_per_municipality(model_path="models/model_mp_30/"):
 
 
 @st.cache(allow_output_mutation=True)
-def get_topic_model(model_path="models/model_mp_30/"):
-    topic_model = BERTopic.load(model_path + "model")
+def get_topic_model(
+    model_path="models/model_mp_30/", model_name="paraphrase-multilingual-mpnet-base-v2"
+):
+    sentence_model = SentenceTransformer(model_name, device="cpu")
+    model = select_backend(sentence_model)
+    topic_model = BERTopic.load(model_path + "model", embedding_model=model)
     return topic_model
 
 

@@ -1,515 +1,517 @@
 Topic,Words,Frequency,Class
--1,"biblioteket, bibliotek, barn, finns, samt",309,Dalarna
-0,"digitala, digital, biblioteket, tjänster, digitalt",29,Dalarna
-1,"biblioteket, rum, plats, genom, mötesplats",10,Dalarna
-2,"bibliotek, mål, länet, andra, samarbetar",6,Dalarna
-3,"biblioteksplan, 2019, kommun, 2019 2020, antal",10,Dalarna
-4,"annat, personer, litteratur, särskild, ägna särskild uppmärksamhet",11,Dalarna
-5,"årligen, uppföljning, biblioteksplanen, årliga, verksamheten",7,Dalarna
-6,"fors, åvestadalskolan, fors skola, årsverken, finns",3,Dalarna
-7,"utrustning, personal, medier utrustning, elevernas, medier",6,Dalarna
-8,"rätt, barnet, barnets, barn, barnet rätt",24,Dalarna
-9,"kommunen, år, avesta, kommun, äldre",17,Dalarna
-10,"nationella, svenska, minoritetsspråken, finska, språk",10,Dalarna
-11,"sfs, kommun, bilaga, resultatenhet, sfs 2013",4,Dalarna
-12,"kommun, hedemora, älvdalens kommun, älvdalens, kommunen",19,Dalarna
-13,"biblioteket, barn, förskolorna, direkt, förskolan",3,Dalarna
-14,"allmänna, allmänna biblioteksväsendet, biblioteksväsendet, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",5,Dalarna
-15,"in, bör, spel, media, allsidigt belysa",4,Dalarna
-16,"skolbibliotek, elevernas, tillgång skolbibliotek, tillgång, eleverna",8,Dalarna
-18,"folkbiblioteken, tillgång, litteratur, främja, tid",7,Dalarna
-19,"älvdalen, ovansiljans bibliotek, ovansiljans, bibliotekssamverkan dalarna, biblioteket planperioden",1,Dalarna
-20,"ansvarar, staten, landsting, ansvarar staten, kommuner",2,Dalarna
-21,"böcker, låna, bibliotekets hemsida, reservera, hemsida",5,Dalarna
-22,"organisatoriskt, hedemora, politiskt beslutande organet verksamhetsbudgeten innevarande, bildningsnämnden politiskt, ca miljoner kr netto",1,Dalarna
-23,"obemannat, tvättstugebibliotek, biblioteken malung, biblioteken malung sälens kommun, biblioteken malung sälens",3,Dalarna
-24,"timmar, öppet, vecka, timmar vecka, veckan",4,Dalarna
-25,"biblioteksplanen, förutsättningar biblioteksverksamheten strategier verksamhetens utveckling, förutsättningar biblioteksverksamheten strategier, biblioteksverksamheten strategier, ange konkreta förutsättningar",2,Dalarna
-26,"lånecentraler, ställa litteratur, avgiftsfritt ställa litteratur, avgiftsfritt ställa, ställa",1,Dalarna
-27,"bibliotek, orsa, dalarna, mora, älvdalens",30,Dalarna
-28,"oavsett medium, medium, sätt, berättelser, läsning",1,Dalarna
-29,"genom olika insatser, olika insatser, genom olika, samtliga program uppsatta, pedagogiska funktion gentemot",1,Dalarna
--1,"biblioteket, barn, genom, olika, samt",229,Östergötland
-0,"digitala, digitalt, biblioteket, information, samhället",9,Östergötland
-1,"biblioteket, rum, bibliotekets, människor, plats",11,Östergötland
-2,"östergötland, götabiblioteken, samverkan, linköpings, biblioteken",16,Östergötland
-3,"biblioteksplan, linköpings, 2020, kommun, område",8,Östergötland
-4,"annat, erbjuda litteratur, personer, ägna särskild uppmärksamhet, ägna särskild",11,Östergötland
-5,"valdemarsviks, biblioteksplanen, planen, kontinuerligt statistiskt underlag folkbiblioteken, kontinuerligt statistiskt underlag",1,Östergötland
-6,"östergötland, finns, skolbibliotek, elever, regionbibliotek östergötland",5,Östergötland
-7,"elevernas, digitala, eleverna, använda, förmåga",7,Östergötland
-8,"barn, barn unga, unga, skola barnkonventionen vägledande arbetet riktat, både barn fritiden",1,Östergötland
-9,"ödeshög, 2018 rikssnitt, arbetslösheten låg 2018 rikssnitt, öppna arbetslösheten låg 2018 rikssnitt, arbetslösheten låg 2018",2,Östergötland
-10,"nationella, svenska, prioriterad, böcker, regionala götasamarbetet",1,Östergötland
-11,"mål nr, nr, mål, biblioteksplan, ödeshög",3,Östergötland
-12,"boxholms, följer inriktningsmålen boxholms kommun bra, boxholms kommun bra, kommun bra kommunal verksamhet goda, kommun bra kommunal verksamhet",1,Östergötland
-13,"barnbibliotekarien, barn, egna bestånd, förskolan, enheternas egna bestånd",5,Östergötland
-14,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",5,Östergötland
-15,"medier, brett, utbud, bibliotekets, låntagare bland",3,Östergötland
-16,"skolbibliotek, eleverna, tillgång, tillgång skolbibliotek, elevernas",6,Östergötland
-18,"folkbiblioteken, tid, tillgång, få, eleverna grundskolan grundsärskolan specialskolan sameskolan",2,Östergötland
-19,"vadstena, valdemarsviks, kommun, vidga, biblioteken",7,Östergötland
-20,"ansvarar, staten, landsting, kommuner, ansvarar staten",2,Östergötland
-21,"genom, mätas genom antal, genom antal, mätas genom, mätas",1,Östergötland
-24,"timmar, timmar vecka, vecka, öppet, veckan",3,Östergötland
-25,"kommun, biblioteksplanen, planen, biblioteksplan, invånarna initiativrika",3,Östergötland
-26,"lånecentraler, högskolebibliotek, biblioteksverksamhet, tillgång, regional biblioteksverksamhet",2,Östergötland
-28,"läsning, stimulera, barn, läslusten, barnen",5,Östergötland
-29,"läsförståelse, elevernas, elever, utifrån vill, formulera frågor utifrån vill",4,Östergötland
--1,"biblioteken, biblioteket, barn, olika, genom",390,Stockholm
-0,"digitala, digital, biblioteket, digitalt, kompetens",28,Stockholm
-1,"biblioteket, biblioteken, plats, olika, bibliotekets",26,Stockholm
-2,"samverkan, biblioteken, bibliotek, andra, nacka",8,Stockholm
-3,"rfk, kommun, biblioteksplan, wloo, vnd",11,Stockholm
-4,"personer, litteratur, särskild uppmärksamhet, uppmärksamhet, annat",9,Stockholm
-5,"biblioteksplanen, uppföljning, utvärdering, nyckeltal, uppföljningen",17,Stockholm
-6,"skolbibliotek, skola, skolor, elever, finns",6,Stockholm
-7,"skolbiblioteket, kompetens, skolan, elevernas, digitala kompetens",5,Stockholm
-8,"rätt, barn, rättigheter, barn rätt, barnets",6,Stockholm
-9,"år, kommunen, värmdö, kommun, invånare",15,Stockholm
-10,"nationella, svenska, minoritetsspråken, finska, minoriteterna",10,Stockholm
-11,"library, for, guidelines for, guidelines, ifla international federation of library",2,Stockholm
-12,"kommun, kultur, människor, upplands bro, kommunens",5,Stockholm
-13,"barn, förskolan, arrangeras, olika, biblioteket",4,Stockholm
-14,"biblioteken allmänna biblioteksväsendet, biblioteken allmänna, allmänna biblioteksväsendet, biblioteksväsendet, allmänna",3,Stockholm
-15,"nacka, biblioteken nacka, inköpsförslag, medier, köpa",4,Stockholm
-16,"skolbibliotek, tillgång skolbibliotek, elevernas, tillgång, skolans",6,Stockholm
-17,"kompetens, personalens, kompetenta biblioteket, folkbibliotekens, nya",7,Stockholm
-19,"väsby, kommun, biblioteket, nacka, botkyrka",15,Stockholm
-21,"söka information, biblioteket, söka, utbudet evenemang tjänster samt hantera, plattform användare erbjuds",1,Stockholm
-23,"folkbibliotek, kommunen, två, södertälje, folkbiblioteket",5,Stockholm
-25,"biblioteksplanen, planen, biblioteksplan, styrdokument, väsby",4,Stockholm
-26,"katalog, databaserbiblioteket endast tillhandahålla databaser, efterfrågan hos bibliotekets användare övriga, via internet finns uttalad, via internet finns uttalad efterfrågan",1,Stockholm
-28,"läsning, barn, litteratur, stor, genom",6,Stockholm
-29,"inriktning unga människors, inriktning unga, läroplan, unga människors, skolbiblioteket",2,Stockholm
--1,"biblioteket, barn, biblioteken, olika, bibliotek",123,Sörmland
-0,"digitala, digital, biblioteken, information, kunskap",11,Sörmland
-1,"biblioteket, besökare, bibliotekets, kulturella arrangemang biblioteket, olika",7,Sörmland
-2,"samverkan, andra, oxelösunds, stadsbiblioteket, bibliotek",4,Sörmland
-3,"katrineholms, biblioteksplan, kommun, katrineholms bibliotek, katrineholms kommun",6,Sörmland
-4,"personer, folkbiblioteken, annat, funktionsnedsättning, folkbibliotek",7,Sörmland
-5,"trosa, biblioteksplanen, uppföljning, trosa kommun, kultur fritids teknik",5,Sörmland
-6,"flens, folkbibliotekets bibliotekarier även, via skolpengen barn utbildnings kulturnämnden, innebär folkbibliotekets bibliotekarier, verksamheter flens kommun samverkansmodell",1,Sörmland
-7,"elever, elevernas, personal, skolbiblioteken, rektor",3,Sörmland
-8,"barn, beaktas besvaras barn unga, fn barnkonvention unescos skolbiblioteksmanifest, barn ungdomsverksamheten barnkonventionen, 2021 barn oxelösund känna",1,Sörmland
-9,"flens, flens kommun, andel, stor, låg",2,Sörmland
-10,"svenska, nationella, finska, annat, biblioteken",3,Sörmland
-11,"nyköpings, nyköpings kommun, dnr, sfs, allmänna biblioteksväsendet",1,Sörmland
-13,"biblioteket, bokprat, tillhör biblioteket anordna olika, skola tillhör biblioteket, biblioteksvisningar delta läsfrämjande",1,Sörmland
-15,"behov önskemål biblioteket även kunna, litteratur bibliotekets tillgänglighet biblioteket generösa, även kunna tillhandahålla mindre, del styras besökarnas, del styras",1,Sörmland
-18,"folkbiblioteken, landsting, tid, regional biblioteksverksamhet, få",1,Sörmland
-19,"bidra, ökad livskvalitet, katrineholms kommun, bildningsförvaltningen, katrineholms",1,Sörmland
-20,"ansvarar, staten, bestämmelserna, enskilda, kommunerna",1,Sörmland
-21,"bibliotekets, bibliotekets hemsida, hemsidan, hemsida, lämna inköpsförslag söka katalogen",2,Sörmland
-25,"gnesta, gnesta kommuns, biblioteksplanen, 2019 2021, unesco",1,Sörmland
-26,"landsting, regional biblioteksverksamhet, regional, biblioteksverksamhet, biblioteksplaner",1,Sörmland
--1,"biblioteket, barn, biblioteken, genom, olika",746,Skåne
-0,"digitala, digital, biblioteket, samhället, digitalt",72,Skåne
-1,"biblioteket, rum, plats, också, biblioteken",41,Skåne
-2,"samverkan, bibliotek, skåne, biblioteken, samarbeten",27,Skåne
-3,"kommun, biblioteksplan, simrishamns, simrishamns kommun, 2021",38,Skåne
-4,"särskild uppmärksamhet, uppmärksamhet, ägna särskild uppmärksamhet, ägna särskild, personer",24,Skåne
-5,"biblioteksplanen, uppföljning, revidering, revideras, årliga",18,Skåne
-6,"skolbibliotek, finns, elever, tre, skolor",19,Skåne
-7,"elevernas, digitala, kompetens, eleverna, skolans",23,Skåne
-8,"barn, rätt, barnets, fn, barns",37,Skåne
-9,"år, befolkningen, eslövs, kommunen, äldre",15,Skåne
-10,"svenska, nationella, minoritetsspråken, nationella minoritetsspråken, lättläst",5,Skåne
-11,"stockholm, sfs, biblioteksplan, 2020, se",28,Skåne
-12,"lomma, kommun, lomma kommun, invånarna, hållbarhet",12,Skåne
-13,"barn, erbjuds, samband, barn unga olika åldrar, unga olika åldrar",6,Skåne
-14,"allmänna, allmänna biblioteksväsendet, biblioteksväsendet, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",13,Skåne
-15,"na, medier, inva narna, narna, inva",3,Skåne
-16,"skolbibliotek, tillgång skolbibliotek, eleverna, tillgång, elevernas",11,Skåne
-17,"behöver, kunna, kompetens, personalen, kompetensutveckling",10,Skåne
-18,"folkbiblioteken, tillgång, tid, litteratur, få",6,Skåne
-19,"upplevelser, göinges, östra göinges, byar, östra",2,Skåne
-20,"ansvarar, staten, ansvarar staten, kommuner, landstingen",9,Skåne
-21,"böcker, via, biblioteket, medier, lånas",5,Skåne
-22,"familjen, helsingborg, familjen helsingborg, bibliotek familjen, bibliotek familjen helsingborg",49,Skåne
-23,"bibliotek, lund, klippans, folkbibliotek, 30",11,Skåne
-24,"timmar, vecka, timmar vecka, öppet, veckan",8,Skåne
-25,"biblioteksplan, biblioteksplanen, simrishamn sewww, sewww simrishamn, simrishamn sewww simrishamn",6,Skåne
-26,"lånecentraler, biblioteksverksamhet, ställa litteratur, förfogande, högskolebibliotek",6,Skåne
-28,"läsning, barn, läsfrämjande, läsande, osby",8,Skåne
-29,"skolbiblioteket, elever, genom, eleverna, motivation",7,Skåne
--1,"samt, biblioteket, barn, finns, olika",86,Halland
-0,"digitala, digital, digitalt, tjänster, kompetens",14,Halland
-1,"biblioteket, meröppet, fler, genom, biblioteken",6,Halland
-2,"halland, hallands, koha, hyltebiblioteken, kring",5,Halland
-3,"hylte, www, 16, utmaningar, digital kompetens",3,Halland
-4,"personer, anpassade, tillgängliga, särskild, behov",4,Halland
-7,"skolbiblioteket, olika, kompetens, elevernas, elever",5,Halland
-9,"aktiva, kulturaktiviteter fritidsaktiviteter, aktiva ungdomar föreningslivet, laholms kommun invånare, invånare kommunen god språkutveckling",1,Halland
-10,"nationella, svenska, modersmål, beståndet, finska",2,Halland
-11,"kftn, fungera ledning, bunrevideringsansvarigrevideringsintervallreviderad datumkftn, fastställandekommunfullmäktigedokumenttypdokumentet gäller förgiltighetstidpolicykftn bunrevideringsansvarigrevideringsintervallreviderad, fungera ledning kommunala",1,Halland
-14,"rubrikerna digitala klyftor medie informationskompetens, utmaningar rubrikerna digitala klyftor, medie informationskompetens demokrati läsfrämjande beskrivs, demokratiuppdrag berörs utmaningar, demokrati läsfrämjande beskrivs nedan",1,Halland
-15,"via, utbudet, medieplanen, möjlighet påverka, medier",3,Halland
-17,"digital kompetens verksamhetsutveckling, kunskaperna informationsteknik användas samt verka, läsfrämjande öka kunskaperna informationsteknik, planperioden verksamheten identifiera, planperioden verksamheten",1,Halland
-21,"http, hyltebibliotekens, blogspot com, blogspot, blogg",1,Halland
-23,"laholms, omfattar stadsbibliotek bokbuss filialbibliotek laholms, bibliotek uppfattas bibliotekssystem, samlingsnamnet folkbiblioteken laholms, hallands kulturplan 2017 2020laholms bibliotek",1,Halland
-29,"värdera, information, lärare bibliotekarier elevers medie informationskunnighet, verktyg genom samarbete lärare bibliotekarier, ny information kunskap kunna",1,Halland
--1,"biblioteket, barn, bibliotek, olika, samt",295,Värmland
-0,"digitala, digital, at, biblioteket, kompetens",22,Värmland
-1,"biblioteket, möten, olika, också, rum",9,Värmland
-2,"samarbetet, bibliotek, värmland, samverkan, samarbete",22,Värmland
-3,"biblioteksplan, kommun, 10, hammarö, 13",9,Värmland
-4,"personer, svenska, annat, nationella, ansvarar",7,Värmland
-5,"policy, riktlinjer, biblioteksplanen, uppföljning, exempel",15,Värmland
-6,"skolbibliotek, finns, skola, elever, bibliotek",10,Värmland
-7,"elevernas, kulturförvaltningen, stödja elevernas lärande, stödja elevernas, elevernas lärande",1,Värmland
-8,"barns, rätt, barnets, barnets bästa, barns rätt",2,Värmland
-9,"storfors, kommunen, procent, år, andelen",4,Värmland
-10,"svenska, nationella, minoritetsspråken, annat, nationella minoritetsspråken",5,Värmland
-11,"2013, 801, 2013 801, bibliotekslagen, sfs",10,Värmland
-12,"god, kommun, mål, kil, styrning",3,Värmland
-13,"barn, biblioteket, in, erbjuds, bok",14,Värmland
-14,"allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna, allmänna biblioteksväsendet, biblioteksväsendet",6,Värmland
-15,"media, inköp, mediebestånd, utbildad personal användarens, medieplan stöd",2,Värmland
-16,"skolbibliotek, eleverna, skollagen, tillgång skolbibliotek, tillgång",6,Värmland
-17,"banker, hjälp, myndigheter, kompetens, behovet",2,Värmland
-18,"folkbiblioteken, tillgång, at, tid, främja",4,Värmland
-19,"värmland, arbeta, fokus syftar, arbeta främja, fokus",1,Värmland
-20,"ansvarar, staten, ansvarar staten, landstingen, enskilda",3,Värmland
-21,"finns, biblioteket, via, webben, böcker",8,Värmland
-23,"finansieras, mobila biblioteket, finansiering, mobila, kultur fritid",2,Värmland
-24,"timmar, öppet, veckan, timmar veckan, timmar vecka",8,Värmland
-25,"skall, lätt, arbetet vill också planenbiblioteksservicen, ochpåanpassad, vis skall planen",1,Värmland
-26,"lånecentraler, forshaga, förfogande, ställa, avgifsfrit ställa literatur",2,Värmland
-28,"läsning, arbete, förståelse, olika, sätt",2,Värmland
-29,"läsförståelse, elevernas, förmåga, elever, god",5,Värmland
--1,"biblioteket, barn, olika, medier, samt",179,Västmanland
-0,"digitala, digital, samhället, utveckla, biblioteket",8,Västmanland
-1,"biblioteket, bibliotekets, olika, meröppet, bibliotekslokalen",7,Västmanland
-2,"västmanland, samverkan, bibliotek, länet, gemensam",17,Västmanland
-3,"kommun, biblioteksplan, samverkan, antagen, 2020",4,Västmanland
-4,"funktionsnedsättning, personer, särskild uppmärksamhet, uppmärksamhet, annat",7,Västmanland
-5,"biblioteksplanen, verksamhetsplanerna kommer anges, sätt följs sju målformuleringar folkbiblioteketbiblioteket, sätt följs, sätt följs sju målformuleringar",1,Västmanland
-6,"finns, skolbibliotek, grundskolor, karls skola, karls",4,Västmanland
-7,"olika, skolans, eleverna, förmåga, kompetens",2,Västmanland
-8,"rätt, barnets, barn, barnkonventionen, barns",2,Västmanland
-9,"år, kungsör, mil, cirka, födda",6,Västmanland
-10,"nationella, svenska, minoritetsspråken, nationella minoritetsspråken, finska",8,Västmanland
-11,"upphandling, biblioteksplan, upphandling media, bibliotekslagen, köpings",3,Västmanland
-13,"barn, aktiva låntagare, biblioteket, aktiva, önskemål",2,Västmanland
-14,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",6,Västmanland
-15,"lämna, följa användande, medier, inköpsförslag, biblioteket",2,Västmanland
-16,"skolbibliotek, tillgång skolbibliotek, grundskolan, inspirerande, plats inspiration",2,Västmanland
-17,"kompetens, bibliotekets, bibliotek, behöver, personalen",4,Västmanland
-18,"folkbiblioteken, tid, tillgång, litteratur, avtalad",4,Västmanland
-20,"ansvarar, staten, ansvarar staten, enskilda, kommuner",6,Västmanland
-23,"kungsörs, veckan bokbusstjänsten köps, 1984, biblioteksfilialen valskog lades, valskog lades",1,Västmanland
-24,"timmar, öppet, timmar veckan, veckan, vecka",3,Västmanland
-25,"biblioteksplanen, kommunens samlade biblioteksverksamhet, samlade biblioteksverksamhet, kommunens samlade, biblioteksplan",3,Västmanland
-26,"lånecentraler, högskolebibliotek, förfogande, finnas, avgiftsfritt",3,Västmanland
-28,"läsning, barn, biblioteket, fortsätta, olika",3,Västmanland
-29,"skolbiblioteket, surahammars, elevernas, västmanland, olika",2,Västmanland
--1,"biblioteket, barn, bibliotek, finns, olika",270,Kalmar
-0,"digitala, digital, biblioteket, också, biblioteken",31,Kalmar
-1,"biblioteket, bibliotek, fysiska, biblioteken, erbjuda",28,Kalmar
-2,"kalmar, andra, samverkan, bibliotek, biblioteken",14,Kalmar
-3,"biblioteksplan, kommun, biblioteket utvecklingsmål, utvecklingsmål, mörbylånga kommun",5,Kalmar
-4,"annat, personer, litteratur, svenska, erbjuda litteratur",16,Kalmar
-5,"biblioteksplanen, uppföljning, 2021, biblioteksplan, perioden 2017 2021",6,Kalmar
-6,"skolbibliotek, åk, skola, elever, skolbiblioteket",7,Kalmar
-7,"elever, skolans, bestånd, skolbiblioteket, skolbibliotekets",3,Kalmar
-9,"kalmar, kalmar kommun, befolkningen, kommun, kalmar kommun kommer första hand",2,Kalmar
-10,"svenska, nationella, minoritetsspråken, nationella minoritetsspråken, annat",3,Kalmar
-11,"emmaboda, sfs, 2013, prioriterade grupperna, grupperna",2,Kalmar
-13,"barn, biblioteket, barnbibliotekarien, projekt, olika",6,Kalmar
-14,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",7,Kalmar
-15,"vimmerby, gallring, filialerna, inköp, böcker",13,Kalmar
-16,"nybro, skolbibliotek, tillgång skolbibliotek, elevernas, skolans",2,Kalmar
-17,"personalen, uppgifter, kunna, nya, kompetensutveckling",15,Kalmar
-18,"folkbiblioteken, tid, avgiftsfritt, få, litteratur",4,Kalmar
-19,"tydlighet, biblioteket, verksamhet, erbjuder, uppmuntra medborgare företag",3,Kalmar
-20,"ansvarar, staten, ansvarar staten, kommuner, enskilda",8,Kalmar
-21,"finns, hemsidan, datorer, biblioteket, bibliotekets",8,Kalmar
-23,"astrid, lindgrens, astrid lindgrens, kalmar, referensbibliotek",4,Kalmar
-24,"öppet, timmar, lördagar, timmar vecka, vecka",2,Kalmar
-25,"emmaboda, planen, 2013, biblioteksplan, sfs",2,Kalmar
-26,"lånecentraler, högskolebibliotek, biblioteksverksamhet, finnas, områden anknyter",6,Kalmar
-29,"elevernas, skolbibliotekarien, elever, skolbiblioteket, kunna",4,Kalmar
--1,"biblioteken, biblioteket, barn, genom, olika",123,Jämtland Härjedalen
-0,"digitala, biblioteken, digital, teknik, delaktighet",19,Jämtland Härjedalen
-1,"olika typer evenemang, typer evenemang, skall, biblioteket, plats",4,Jämtland Härjedalen
-2,"samverkan, gemensamma utvecklingsfrågor ledning regionala, projekt kring gemensamma utvecklingsfrågor ledning, kring gemensamma utvecklingsfrågor ledning regionala, kring gemensamma utvecklingsfrågor ledning",5,Jämtland Härjedalen
-3,"biblioteksplan, nuläge biblioteken krokom, nuläge, biblioteken krokom, nuläge biblioteken",9,Jämtland Härjedalen
-4,"01, personer, behovet medier information, region politiskt antagen biblioteksplan styrdokument, litteratur tillgodose behovet medier information",1,Jämtland Härjedalen
-5,"biblioteksplanen, 01, uppföljning, revideras, 2024 12 31",5,Jämtland Härjedalen
-6,"skolbibliotek, finns, trångsviken, elever, kommunen",3,Jämtland Härjedalen
-10,"nationella, svenska, basbestånd, språk, litteratur",5,Jämtland Härjedalen
-11,"lagen, tillgång litteraturägna, anpassade användarnas behovsärskilt främja, kraft januari 2014 lagen gäller, jämtland härjedalen fn barnkonvention",1,Jämtland Härjedalen
-12,"100, 100 nya, rätt, såväl, resurs",1,Jämtland Härjedalen
-13,"barn, föräldrar, media, barn månader, samtliga",5,Jämtland Härjedalen
-14,"fri, åsiktsbildning, fri åsiktsbildning, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",3,Jämtland Härjedalen
-15,"köps in, media, köps, transporteras media vecka biblioteken, transporteras media vecka",2,Jämtland Härjedalen
-17,"rekrytering, fortbildning, personalen, konferenser, fortlöpande",7,Jämtland Härjedalen
-19,"programverksamhet lägg därtill, riktningen utvecklingen biblioteksverksamheten perioden 2020, offentlig mötesplats relativt, sammanträffanden, minst gäller människor",1,Jämtland Härjedalen
-23,"kluk, föllinge, ås, krokom, änge",4,Jämtland Härjedalen
-24,"timmar, öppet, veckan, bispgårdens, veckan sammanlagt",3,Jämtland Härjedalen
-25,"ragunda, 2021 utvecklingsområdena grundar lagstiftning, omvärldsanalys biblioteksorganisationen ragunda, 2018 2021 utvecklingsområdena grundar lagstiftning, utvecklingsområden kommande planperioden 2018",1,Jämtland Härjedalen
-28,"läsning, stimulera läsning bibliotekens grundläggande uppgifter, väcka läslust stimulera läsning bibliotekens, läslust stimulera läsning bibliotekens grundläggande, läslust stimulera läsning bibliotekens",2,Jämtland Härjedalen
--1,"biblioteken, barn, genom, biblioteket, samt",120,Kronoberg
-0,"digitala, digitalt, digital, lärande, delaktighet",12,Kronoberg
-1,"biblioteken, stämma tillgänglighet, stämma, inbjudande, anordnas arrangemang författarbesök utställningar filmvisningar",5,Kronoberg
-2,"samverkan, kronoberg, blekinge, blekinge kronoberg, bibk",14,Kronoberg
-3,"region kronoberg, skolverket, kronoberg, biblioteksplan, växjö",17,Kronoberg
-4,"funktionsnedsättning, litteratur, annat, erbjuda litteratur, särskild uppmärksamhet",5,Kronoberg
-5,"enskilda aktiviteter, uppföljning, biblioteksplanen, aktiviteter, se",5,Kronoberg
-6,"filialbibliotek, arbetar biblioteken erbjuda, filialbibliotek meröppet, prioriterade målgrupper arbetar biblioteken erbjuda, likvärdig service stiftsbiblioteket",1,Kronoberg
-7,"skolbibliotek, elevernas, tillgång, skolans, rektor",6,Kronoberg
-8,"rätt, barnets, barn, rättigheter, barnkonventionen",7,Kronoberg
-9,"procent, sysselsättningen, tingsryds, år, 83 procent",4,Kronoberg
-10,"svenska, nationella, hylla, modersmål, litteratur",2,Kronoberg
-11,"svensk biblioteksförening, biblioteksförening, lagstiftaren stockholm svensk biblioteksförening 2015, svensk biblioteksförening 2015 35, 2015 35",2,Kronoberg
-12,"kommun, stark, kommuns vision, trygghet, föreningsliv",3,Kronoberg
-14,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",2,Kronoberg
-15,"låntagare, nära, media, bemötandepolicy framtagen hålla låga nivåer, låntagare interagerar via",1,Kronoberg
-16,"barns elevers, barns elevers behov, elevers, behov, elevers behov",2,Kronoberg
-17,"kompetensutveckling, barn ungas fritid, ungas fritid, fokuserar, bemanning",2,Kronoberg
-18,"folkbiblioteken, tid, regional biblioteksverksamhet, få, tillgång",1,Kronoberg
-19,"upplevelser varierade utmanande berikande, varierade utmanande berikande stimulerar läslust, utmanande berikande stimulerar läslust, varierade utmanande, utmanande berikande stimulerar",2,Kronoberg
-20,"ansvarar, staten, ansvarar staten, kommuner, regional biblioteksverksamhet ansvarar",2,Kronoberg
-21,"finns, webbplatsen, biblioteket, makerspace, finns tillgängligt",2,Kronoberg
-23,"kronoberg, blekinge, samarbete, ljungby deltar satsning, intresse kring läsning",1,Kronoberg
-24,"kl, timmar, följer mataffärens, mataffärens, folkbiblioteket integrerat",2,Kronoberg
-25,"ljungby, biblioteksplanen, biblioteksplan, kommuns, ljungby kommuns",2,Kronoberg
-26,"lånecentraler, förfogande, avgiftsfritt, medieförsörjning finnas flera lånecentraler, medieförsörjning finnas flera",2,Kronoberg
-28,"insatsområden, läsfrämjande, läsfrämjande prioriteras, utvecklingsområdet läsfrämjande, utvecklingsområdet läsfrämjande prioriteras",2,Kronoberg
--1,"biblioteken, biblioteket, barn, genom, bibliotek",121,Uppsala
+-1,"biblioteket, barn, bibliotek, olika, samt",293,Värmland
+0,"digitala, at, biblioteket, digital, tjänster",26,Värmland
+1,"samarbetet, bibliotek, värmland, samverkan, länet",22,Värmland
+2,"biblioteksplan, hammarö, kommun, 10, 13",8,Värmland
+3,"svenska, språk, at, biblioteket, modersmål",13,Värmland
+4,"folkbiblioteken, tjänster, oberoende, reality, tillsammans bland",3,Värmland
+5,"planen, policy, biblioteksplanen, riktlinjer, exempel",13,Värmland
+6,"nationella, svenska, minoritetsspråken, nationella minoritetsspråken, annat",9,Värmland
+7,"storfors, kommunen, procent, år, andelen",4,Värmland
+8,"god, kommun, mål, kil, styrning",3,Värmland
+9,"skolbibliotek, elevernas, tillgång skolbibliotek, skollagen, tillgång",5,Värmland
+10,"skolbibliotek, skola, finns, elever, skolor",11,Värmland
+11,"available, online available at, online available, available at, använd",6,Värmland
+12,"medier, material, media, kvalitet, behov",4,Värmland
+13,"biblioteksväsendet, allmänna biblioteksväsendet, bidra kunskapsförmedling, bidra kunskapsförmedling fri, samhällets utveckling genom bidra kunskapsförmedling",3,Värmland
+14,"barn, biblioteket, in, bok, erbjuds",13,Värmland
+15,"banker, hjälp, myndigheter, kompetens, behovet",2,Värmland
+16,"biblioteket, demokratisk arena, grums, biblioteket aktivt, arena",2,Värmland
+17,"barns, rätt, barnets, barnets bästa, barns rätt",2,Värmland
+18,"kommun, biblioteksplan, biblioteksverksamhet, karlstads, bibliotekslagen",7,Värmland
+19,"aktiviteter året, minst två läsinspirerande, minst två läsinspirerande aktiviteter, läsinspirerande aktiviteter året, två läsinspirerande aktiviteter året",2,Värmland
+21,"timmar, öppet, veckan, timmar veckan, vecka",7,Värmland
+22,"ansvarar, staten, ansvarar staten, landstingen, enskilda",3,Värmland
+23,"uppföljning, skolbiblioteksverksamheten, kris håll biblioteket öppet, kommunfullmäktige 2022 03 24 41, ske år samband årsredovisning uppföljning",3,Värmland
+24,"folkbiblioteken, at, tillgång, tid, främja",3,Värmland
+25,"biblioteket, genomförs önskemål biblioteksbesökare led, meröppet projektet arbetet, också biblioteket deje anpassningar, biblioteksbesökare led anpassning biblioteksrummet inbjudande",1,Värmland
+26,"barn, biblioteket, unga, barn unga, aktiviteter",4,Värmland
+27,"böcker, mtm, bibliotek värmland, talböcker, legimus",3,Värmland
+28,"lånecentraler, förfogande, ställa, bibliotek, forshaga",3,Värmland
+29,"personer, biblioteket erbjuda, erbjuda, funktionsnedsättning, äldre personer",2,Värmland
+-1,"biblioteket, biblioteken, barn, bibliotek, genom",414,Stockholm
+0,"digitala, digital, biblioteket, information, digitalt",34,Stockholm
+1,"biblioteken, samverkan, bibliotek, andra, nacka",8,Stockholm
+2,"rfk, kommun, wloo, biblioteksplan, vnd",8,Stockholm
+3,"svenska, språk, andra, modersmål, litteratur",8,Stockholm
+4,"folkbiblioteket, folkbiblioteken, olika, lärande, folkbibliotek",12,Stockholm
+5,"biblioteksplanen, planen, biblioteksplan, kommun, styrdokument",10,Stockholm
+6,"nationella, svenska, personer, minoritetsspråken, annat",6,Stockholm
+7,"år, kommunen, värmdö, kommun, invånare",15,Stockholm
+8,"kommun, kultur, människor, upplands bro, bro",6,Stockholm
+9,"skolbibliotek, elevernas, tillgång skolbibliotek, 11 kap, skolans",4,Stockholm
+10,"skolbibliotek, skolor, skola, grundskolor, finns",5,Stockholm
+11,"se, nationella, https, https www, www",1,Stockholm
+12,"nacka, biblioteken nacka, inköpsförslag, medier, köpa",4,Stockholm
+13,"biblioteksväsendet, biblioteken allmänna biblioteksväsendet, biblioteken allmänna, allmänna biblioteksväsendet, allmänna",3,Stockholm
+14,"barn, förskolan, biblioteket låna bilderböcker faktaböcker, bilderböcker faktaböcker kapitelböcker, bilderböcker faktaböcker",3,Stockholm
+15,"kompetens, kompetenta biblioteket, personalens, folkbibliotekens, nya",7,Stockholm
+16,"biblioteken, biblioteket, människor, känna, samhället",9,Stockholm
+17,"rätt, barn rätt, barn, lika värde, rättigheter",4,Stockholm
+18,"library, biblioteksplan, for, guidelines for, guidelines",5,Stockholm
+19,"biblioteket, oväntade, genom, biblioteket uppstår, individers",6,Stockholm
+23,"uppföljning, nyckeltal, biblioteksplanen, utvärdering, följs",9,Stockholm
+25,"barkarby, plats, lokalerna, biblioteket, kopplas",4,Stockholm
+26,"barn, biblioteket, unga, barn unga, barns",6,Stockholm
+28,"katalog, tillgänglig gratis via internet, endast tillhandahålla databaser innehåller, innehåller information, tillhandahålla databaser innehåller",1,Stockholm
+29,"personer, funktionsnedsättning, bibliotekets, medier, biblioteket",4,Stockholm
+-1,"barn, biblioteket, genom, biblioteken, olika",125,Västernorrland
+0,"digitala, digital, tjänster, information, biblioteken",13,Västernorrland
+1,"länsbiblioteket, samverkan, bibliotek, biblioteken, samverkar",7,Västernorrland
+2,"målbild, sollefteå, kommun, målbild målbild folkbibliotek, målbild målbild",4,Västernorrland
+3,"svenska, språk, annat, andra, litteratur",5,Västernorrland
+4,"folkbiblioteken, folkbibliotekens, tillgänglig folkbibliotekens uppdrag folkbiblioteken, finnas tillgänglig folkbibliotekens, tillgänglig folkbibliotekens uppdrag",1,Västernorrland
+5,"biblioteksplanen, planen, sollefteå kommuns, styrdokument, sollefteå",4,Västernorrland
+6,"nationella, svenska, minoritetsspråken, nationella minoritetsspråken, annat",2,Västernorrland
+7,"timrå, sundsvall, timrå kommun, sidan, kommunen",1,Västernorrland
+8,"rikare, tillväxt, kapital, sundsvall, hållbar",4,Västernorrland
+9,"skolbibliotek, tillgång skolbibliotek, elevernas, eleverna tillgång skolbibliotek, eleverna tillgång",3,Västernorrland
+12,"gallrar, gallring, medier, timrå, också lånats lång tid",4,Västernorrland
+13,"fri, neutral, biblioteksväsendet, allmänna biblioteksväsendet, allmänna",4,Västernorrland
+17,"barnets, rättigheter, fn konvention barnets, konvention barnets, fn konvention",1,Västernorrland
+18,"timrå kommun, timrå, bibliotekslagen, bibliotekslagen 2013, kommun",1,Västernorrland
+21,"timmar, ersättning motsvarande, veckan, filialbiblioteket, ersättning",1,Västernorrland
+23,"skriftlig rapport, verksamhetsplan följs årligen skriftlig rapport, gäller 2024 12 31 planen, 12 31 planen ligger, 2024 12 31 planen ligger",1,Västernorrland
+24,"folkbiblioteken, annat, litteratur, få, utskottet",2,Västernorrland
+27,"bestånd, ko, biblioteken, tillgängliga, skönlitteratur",1,Västernorrland
+28,"ställa litteratur, ställa, förfogande, länsbiblioteket, lånecentraler",1,Västernorrland
+29,"personer, funktionsnedsättning, personer funktionsnedsättning, särskild, biblioteket",5,Västernorrland
+-1,"barn, biblioteken, biblioteket, samt, genom",284,Jönköpings
+0,"digitala, digital, biblioteken, biblioteket, digitalt",40,Jönköpings
+1,"samverkan, gnosjö, biblioteken, krävs, gnosjö kommun",10,Jönköpings
+2,"kommun, 2011, skolverket, skolbibliotek, 10",5,Jönköpings
+3,"svenska, språk, andra, medier, andra språk",8,Jönköpings
+4,"folkbiblioteken, gnosjö, lärande, gnosjö kommun, kommun",10,Jönköpings
+5,"biblioteksplanen, kommun, biblioteksplan, planen, kommunfullmäktige",14,Jönköpings
+6,"nationella, svenska, annat, minoritetsspråken, nationella minoritetsspråken",8,Jönköpings
+7,"befolkningen, år, riksgenomsnittet, andel, kommunen",5,Jönköpings
+8,"kommun, kommunen, mål, kommunens, människa",13,Jönköpings
+9,"elevernas, skolbibliotek, skolbiblioteket, tillgång skolbibliotek, tillgång",11,Jönköpings
+10,"åk, skolbibliotek, jönköpings, grundskolor, jönköpings län",4,Jönköpings
+11,"hämtad 2020, 2020, hämtad, hämtad 2020 06 10, 2020 06 10",9,Jönköpings
+12,"medieplan, utgångspunkten, del inköpen, många lämnar, styr stor del",5,Jönköpings
+13,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",4,Jönköpings
+14,"temadag, förskolor familjedaghem, familjedaghem, in, förskolor",2,Jönköpings
+15,"personalen, nya, habo, årsverken, personal",6,Jönköpings
+16,"kanske, bibliotek känner ensam, känner ensam kanske, bibliotek känner ensam kanske, känna ingår",3,Jönköpings
+17,"rätt, barn, ungas, kultur, barnets",3,Jönköpings
+18,"15 skolbibliotek, biblioteksplanen, all biblioteksverksamhet, 15, 17",1,Jönköpings
+19,"sätt, olika sätt, renoverad ny, renoverad ny bibliotekslokal, renoverad",2,Jönköpings
+21,"timmar, sävsjö, årsverken, öppet, veckan",2,Jönköpings
+22,"ansvarar, staten, ansvarar staten, landsting, kommuner",1,Jönköpings
+23,"biblioteksplanen, folkbiblioteksverksamheten, utvecklingsområden, styrdokument, biblioteksplanen återfinnas verksamhets handlingsplaner",2,Jönköpings
+24,"folkbiblioteken, tid, få, tillgång, annat",1,Jönköpings
+25,"rummet, biblioteken, öppet, bör, åldrar",4,Jönköpings
+26,"barn, barn unga, unga, vuxna finns nära, vuxna finns nära barn",2,Jönköpings
+27,"finns, finns låna, mtm, datorer, låna",2,Jönköpings
+28,"fjärrlån, bibliotek, lösningar, it, förfogande",1,Jönköpings
+29,"integration vux i12, olika tekniska lösningar finns, samarbete andra aktörer sprida, lösningar finns ta, lösningar finns ta del",2,Jönköpings
+-1,"biblioteket, bibliotek, finns, barn, samt",317,Dalarna
+0,"digitala, digital, biblioteket, tjänster, kunna",35,Dalarna
+1,"bibliotek, vansbro, mål, gemensam, länet",8,Dalarna
+2,"antal, biblioteksplan, 2019 2020, 2019, sid",8,Dalarna
+3,"svenska, språk, böcker, samt, litteratur",6,Dalarna
+4,"folkbiblioteken, folkbiblioteket, lärande, livslångt lärande, livslångt",17,Dalarna
+5,"biblioteksplanen, dalarna, biblioteksplan, styrdokument, planen",7,Dalarna
+6,"nationella, svenska, annat, minoritetsspråken, nationella minoritetsspråken",9,Dalarna
+7,"kommunen, år, avesta, kommun, äldre",17,Dalarna
+8,"kommun, hedemora, älvdalens, älvdalens kommun, kommunen",17,Dalarna
+9,"skolbibliotek, elevernas, tillgång, tillgång skolbibliotek, eleverna",10,Dalarna
+10,"fors, fors skola, åvestadalskolan, integrerade, bibliotekets öppethållande",2,Dalarna
+12,"in, bör, spel, media, allsidigt belysa",4,Dalarna
+13,"allmänna, biblioteksväsendet, allmänna biblioteksväsendet, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",7,Dalarna
+14,"biblioteket, barn, förskolorna, direkt, förskolan",3,Dalarna
+16,"plats, biblioteket, möten möjliggörare, möten, människors",3,Dalarna
+17,"rätt, barnet, barnets, barn, barnet rätt",23,Dalarna
+18,"biblioteksplan, avesta, kommun, sfs, sälens",4,Dalarna
+19,"genom, biblioteket, litteratur, bibliotekets, erbjuda",6,Dalarna
+21,"timmar, öppet, vecka, timmar vecka, veckan",5,Dalarna
+22,"ansvarar, staten, landsting, ansvarar staten, kommuner",2,Dalarna
+23,"årligen, uppföljning, biblioteksplanen, verksamheten, årliga",6,Dalarna
+24,"folkbiblioteken, tillgång, litteratur, tid, främja",7,Dalarna
+25,"biblioteket, tilltalande, viktigt bibliotekets fysiska, hända viktigt bibliotekets fysiska, bedrivs rummen barn ungdomar attraktiva",4,Dalarna
+26,"barn, biblioteket, unga, barn unga, biblioteket strävar",5,Dalarna
+27,"talböcker, legimus, böcker, mtm, biblioteket",7,Dalarna
+28,"lånecentraler, ställa litteratur, avgiftsfritt ställa litteratur, avgiftsfritt ställa, ställa",1,Dalarna
+29,"personer, funktionsnedsättning, medier, personer funktionsnedsättning, service",3,Dalarna
+-1,"biblioteket, samt, barn, finns, olika",96,Halland
+0,"digitala, digital, digitalt, tjänster, biblioteket",15,Halland
+1,"halland, hallands, koha, hyltebiblioteken, kring",5,Halland
+2,"hylte, www, 16, utmaningar, digital kompetens",2,Halland
+3,"svenska, språk, andra, största, litteratur",3,Halland
+4,"bidra kunskapsförmedling fri åsiktsbildning grunden, enligt andra paragrafen biblioteken, paragrafen biblioteken bidra kunskapsförmedling, paragrafen biblioteken bidra, kunskapsförmedling fri åsiktsbildning grunden inköp",1,Halland
+6,"nationella, särskild, ägna särskild, ägna särskild uppmärksamhet, ägna",2,Halland
+7,"aktiva, föreningsliv minska, kulturaktiviteter fritidsaktiviteter fånga ungdomar aktiva, kulturaktiviteter fritidsaktiviteter fånga ungdomar, språkutveckling fler aktiva ungdomar föreningslivet",1,Halland
+12,"via, utbudet, medieplanen, möjlighet påverka, medier",3,Halland
+15,"lever lagstiftningen omvärldens förändrade krav, medarbetarna säkerställa, öka kunskaperna informationsteknik användas, planperioden verksamheten identifiera, säkerställa biblioteksverksamheten kvalitet lever",1,Halland
+18,"kftn, biblioteksverksamhetens utveckling riktning åren, bibliotekschef kftn kvalitetsstrateg bun kftn, kvalitetsstrateg bun kftn, kvalitetsstrateg bun kftn bunenligt",1,Halland
+19,"hyltebiblioteken, kanaler, arrangemang, ta helhetsgrepp kring kultur, aktivt attmarknadsföra bättre",1,Halland
+25,"fler, arrangemang, hylte, inbjudande, meröppet",2,Halland
+26,"barn, hyltebiblioteken, unga, arrangemang, hösten hyltebiblioteken",1,Halland
+29,"personer, medierna, anpassade, tillgängliga, utrustning samarbete",1,Halland
+-1,"biblioteket, barn, biblioteken, bibliotek, olika",126,Sörmland
+0,"digitala, digital, information, biblioteken, biblioteket",14,Sörmland
+1,"samverkan, oxelösunds, oxelösunds invånare, andra, invånare",4,Sörmland
+2,"katrineholms, kommun, katrineholms bibliotek, biblioteksplan, katrineholms kommun",4,Sörmland
+3,"svenska, språk, biblioteket, erbjuda, modersmål",4,Sörmland
+4,"folkbiblioteken, folkbiblioteket, läsning, media, läsning studier möten",5,Sörmland
+5,"gnesta, planen, biblioteksplanen, tidigare planen, fritids teknik",2,Sörmland
+6,"nationella, svenska, annat, allmänna biblioteksväsendet ägna särskild, allmänna biblioteksväsendet ägna",1,Sörmland
+7,"flens, flens kommun, andel, stor, låg",2,Sörmland
+11,"nyköpings, nyköpings kommun, dnr, skolverket, sfs",1,Sörmland
+12,"efterfrågad litteratur bibliotekets, tillhandahålla mindre efterfrågad litteratur, styras besökarnas behov, efterfrågad litteratur bibliotekets tillgänglighet, önskemål biblioteket även kunna tillhandahålla",1,Sörmland
+14,"biblioteket, bokprat, erbjuda möjlighet skolklasser besöka, erbjuda möjlighet skolklasser, erbjuda bokprat annan läsfrämjande",1,Sörmland
+16,"bibliotekets, värdskap bemötande, ges lika, bibliotekets öppettider bibliotekets personal, bibliotekets öppettider bibliotekets personal serviceinriktad",1,Sörmland
+17,"barn, plats inför 2021 barn oxelösund, implementera bibliotekets verksamheter plats, barnkonvention unescos skolbiblioteksmanifest vägledande, vägledande barn ungdomsverksamheten barnkonventionen lag",1,Sörmland
+18,"nyköpings, nyköpings kommun, biblioteksplan nyköpings, biblioteksplan nyköpings kommun, fastställs",1,Sörmland
+19,"andra, exempelvis, hos åldrar särskilt, hjälp andra läsfrämjande arbetssätt arbeta, kontakter utveckla",1,Sörmland
+22,"ansvarar, staten, bestämmelserna, enskilda, kommunerna",1,Sörmland
+23,"uppföljning, årliga, biblioteksplanen, delårsbokslut, årligen",3,Sörmland
+24,"folkbiblioteken, landsting, tid, regional biblioteksverksamhet, få",1,Sörmland
+25,"besökare, kommunens verksamheter, biblioteket, miljö, andra",2,Sörmland
+26,"barn, ungdomar, biblioteket, unga, stor",2,Sörmland
+27,"personer läs skrivsvårigheter, personer läs, läs skrivsvårigheter, skrivsvårigheter, personer",2,Sörmland
+28,"landsting, regional biblioteksverksamhet, regional, biblioteksverksamhet, biblioteksplaner",1,Sörmland
+29,"personer, funktionsnedsättning, äldre personer, bibliotekets tjänster, äldre personer funktionshinder",2,Sörmland
+-1,"biblioteken, biblioteket, barn, genom, olika",122,Jämtland Härjedalen
+0,"digitala, biblioteken, digital, teknik, digitalt",20,Jämtland Härjedalen
+1,"samverkan, gemensamma utvecklingsfrågor ledning regionala biblioteksorganisationen, kring gemensamma utvecklingsfrågor ledning, utvecklingsfrågor ledning, gemensamma utvecklingsfrågor ledning",5,Jämtland Härjedalen
+2,"nuläge biblioteken krokom, biblioteksplan, nuläge, nuläge biblioteken, biblioteken krokom",8,Jämtland Härjedalen
+3,"språk, svenska, litteratur, andra språk, andra",8,Jämtland Härjedalen
+5,"biblioteksplanen, 01, revideras, planen, 2024",4,Jämtland Härjedalen
+6,"nationella, nationella minoritetsspråken, minoritetsspråken, svenska, allmänna",1,Jämtland Härjedalen
+8,"100, 100 nya, rätt, såväl, resurs",1,Jämtland Härjedalen
+10,"skolbibliotek, finns, elever, trångsviken, kommunen",3,Jämtland Härjedalen
+12,"köps in, media, köps, kommunen transporteras media vecka biblioteken, transporteras media vecka biblioteken",2,Jämtland Härjedalen
+13,"fri, fri åsiktsbildning, åsiktsbildning, biblioteksväsendet, allmänna biblioteksväsendet",2,Jämtland Härjedalen
+14,"förskoleavdelningar, barn, bokkassar, föräldrar, läsgodispåsar",4,Jämtland Härjedalen
+15,"rekrytering, fortbildning, konferenser, personalen, fortlöpande",7,Jämtland Härjedalen
+16,"skall, biblioteket skall, biblioteket skall erbjuda, biblioteket, skall erbjuda",2,Jämtland Härjedalen
+18,"bibliotekslagen, 801, 2013 801, 2013, biblioteksorganisation",3,Jämtland Härjedalen
+19,"författarbesök, medborgarna, knappast aktör erbjuda breda utbud, unika frizonen folkbiblioteken utgör samhälleterbjuder, unika frizonen folkbiblioteken utgör",2,Jämtland Härjedalen
+21,"timmar, öppet, veckan, dagar, bispgårdens",4,Jämtland Härjedalen
+23,"uppföljning, strömsund, årliga, 01, biblioteksplanen",2,Jämtland Härjedalen
+27,"mtm, talböcker, nedladdning, olika typer, olika",3,Jämtland Härjedalen
+29,"tillgängliga, biblioteken, personer, anpassade, förutsättningar tillhandahålla litteratur tekniska",1,Jämtland Härjedalen
+-1,"biblioteket, barn, bibliotek, kommun, biblioteken",210,Västerbotten
+0,"digitala, digital, digitalt, biblioteket, biblioteken",17,Västerbotten
+1,"samarbetet, v8, biblioteken, samverkan, bibliotek",12,Västerbotten
+2,"2020, 2023, dorotea, biblioteksplan, 2020 2023",7,Västerbotten
+3,"svenska, biblioteket, språk, dorotea, medier",2,Västerbotten
+4,"arrangemang, folkbiblioteket, folkbiblioteken, anknytning, in",3,Västerbotten
+5,"biblioteksplanen, biblioteksplan, nordmalings, delårs årsredovisningar aktuella, bestämmer riktningen nordmalings kommuns biblioteksverksamhet",2,Västerbotten
+6,"minoritetsspråken, nationella, nationella minoritetsspråken, svenska, språk nationella minoritetsspråken svenska lätt",2,Västerbotten
+7,"befolkningen, procent utrikes, 11 procent utrikes födda, procent utrikes födda personer, befolkningen utgörs",3,Västerbotten
+8,"kommun, kultur, dorotea, främja, mål",8,Västerbotten
+9,"tillgång skolbibliotek, skolbibliotek, eleverna tillgång skolbibliotek, eleverna, eleverna tillgång",3,Västerbotten
+10,"skolbibliotek, folk skolbibliotek, elever, finns, vännäs",3,Västerbotten
+12,"kommer folkbiblioteket, inköp, folkbiblioteket, utbud, inköpsförslag folkbiblioteket",2,Västerbotten
+13,"nationell biblioteksstrategi, biblioteksstrategi, in yttrande yttrandet ställer, in yttrande yttrandet, biblioteksstrategi kungliga biblioteket uppdrag regeringen",1,Västerbotten
+15,"organisationer föreningar, målgrupperna, organisationer, aktuella områden angeläget fortsätta, fortbilda all personal gärna",1,Västerbotten
+16,"offentliga rum, krav medlemskap prestation konsumtion, både fysiskt digitalt öppna besöka, besöka krav medlemskap, besöka krav",2,Västerbotten
+17,"rättigheter, barnets, barnets rättigheter, fn, fn konvention barnets rättigheter",2,Västerbotten
+18,"sfs, biblioteksplan, kommun, nordmalings, 801",6,Västerbotten
+19,"dorotea bibliotek, dorotea, förutsättningarna, utbud aktiviteter fritiden barn ungdomar, anordna brett utbud",2,Västerbotten
+21,"timmar, öppet, veckan, timmar veckan, dagar",4,Västerbotten
+23,"nyckeltal, årligen, verksamhetsplanen, biblioteksplanen, uppföljning",3,Västerbotten
+24,"tillgång, folkbiblioteken, tillgång skolbibliotek, få, grundsärskolan specialskolan sameskolan",2,Västerbotten
+25,"biblioteksrummet, naturligt grunden, naturligt, utformning, grunden",1,Västerbotten
+27,"sfi, rullstolsburna, kontakt biblioteket får, flyktingsamordningen sfi ger nyanlända, ger nyanlända",1,Västerbotten
+28,"regionbiblioteket, regional, länet, lånecentraler, västerbotten",4,Västerbotten
+-1,"biblioteken, biblioteket, barn, bibliotek, olika",113,Uppsala
 0,"digitala, digital, tjänster, knivsta, biblioteket",12,Uppsala
-1,"ryms frågor, ryms, biblioteket, bibliotek, frågor",4,Uppsala
-2,"knivsta, knivsta bibliotek, bibliotek, samverkan, uppsala",4,Uppsala
-3,"kommun, biblioteksplan, heby, tierps, tierps kommun",4,Uppsala
-4,"folkbiblioteken, lärande delaktighet kulturlivet 5barn ungdomar, läsning tillgång litteratur också verka, lärande delaktighet kulturlivet 5barn, kulturlivet 5barn ungdomar nämns specifikt",1,Uppsala
-5,"biblioteksplanen, skolbibliotek, sfs, kommunstyrelsen, följas",3,Uppsala
-6,"tierps, tierps kommun, tierps kommun tierps bibliotek består, unga prioriterade bibliotekens barnverksamhet, unga prioriterade bibliotekens",1,Uppsala
-7,"elevernas, skolbibliotekets, kompetens, skapande, ansvar",3,Uppsala
-8,"mål, barnkonventionen, bibliotekets verksamhet, barn, verksamhet",1,Uppsala
-9,"många, heby kommun, heby, kommunen, kommun",3,Uppsala
-10,"knivsta, knivsta bibliotek, finska, kultur, nationella",2,Uppsala
-11,"utbildningssatsning digitalt först omvärldsbevakning, deltar region, aktiviteter deltar region, aktiviteter deltar region uppsalas utbildningssatsning, aktiviteter deltar",1,Uppsala
-12,"heby, kommun, heby kommun, hållbarhet, god",8,Uppsala
-14,"biblioteken allmänna biblioteksväsendet, biblioteken allmänna, allmänna biblioteksväsendet, biblioteksväsendet, allmänna",2,Uppsala
-15,"demokratiuppdrag, bestånd medier, böcker, bestånd, brett",1,Uppsala
-16,"skolbibliotek, tillgång skolbibliotek, skollagen, elevernas, tillgång",5,Uppsala
-19,"knivsta, regleras, vision, uppdrag folkbibliotek skolbibliotek räknas allmänna, vision värdeorden delaktighet engagemang tydlighet",1,Uppsala
-22,"heby, heby kommun, bibliotek, delar mediebestånd katalog personal, östervåla tärnsjö delar",2,Uppsala
-23,"finns, kulturhuset, folkbibliotek, 2011, storbrunn östhammar",1,Uppsala
-25,"håbo, mål håbo, lagar styrdokument styr biblioteksverksamheten planens, håbo lever, demokratiskt samhälle kännetecknas jämlikhet medbestämmande",1,Uppsala
-29,"eleven lära, årskurs eleven, årskurs eleven lära, eleven, källor",1,Uppsala
--1,"barn, biblioteken, biblioteket, samt, genom",273,Jönköpings
-0,"digitala, digital, biblioteken, biblioteket, teknik",34,Jönköpings
-1,"biblioteket, bibliotek, biblioteken, meröppet, habo",19,Jönköpings
-2,"samverkan, gnosjö, gnosjö kommun, kompetensutveckling, biblioteken",7,Jönköpings
-3,"ja, kommun, 10, skolbibliotek, skolverket",9,Jönköpings
-4,"särskild, ägna särskild uppmärksamhet, ägna särskild, särskild uppmärksamhet, ägna",9,Jönköpings
-5,"biblioteksplanen, uppföljning, biblioteksplan, revideras, fram",9,Jönköpings
-6,"åk, skolbibliotek, finns, grundskolor, skolorna",7,Jönköpings
-7,"elevernas, skolbiblioteket, eleverna, använda, skolans",14,Jönköpings
-8,"barn, rätt, ungas, kultur, barnets",3,Jönköpings
-9,"befolkningen, år, riksgenomsnittet, andel, kommunen",5,Jönköpings
-10,"svenska, språk, nationella, minoritetsspråken, andra språk",5,Jönköpings
-11,"kungliga, sfs, kungliga biblioteket, 2020 06 10, 06 10",6,Jönköpings
-12,"kommun, kommunen, mål, kommunens, hållbarhet",16,Jönköpings
-13,"utbud medier utlåningssiffrorna bibehållas åringar, boklek får, svensk biblioteksförening framgår viktigt, rapport svensk biblioteksförening framgår viktigt, svensk biblioteksförening framgår",1,Jönköpings
-14,"biblioteksväsendet, biblioteken allmänna biblioteksväsendet, biblioteken allmänna, allmänna biblioteksväsendet, allmänna",3,Jönköpings
-15,"medieplan, inköpen många lämnar förslag, del inköpen många, användarna styr stor del, går frågan",5,Jönköpings
-16,"skolbibliotek, elevernas, tillgång skolbibliotek, tillgång, eleverna",5,Jönköpings
-17,"personalen, lär genom reflektera kunskapsutbyte, lär genom reflektera, personalen lär genom reflektera kunskapsutbyte, personalen lär genom reflektera",5,Jönköpings
-18,"folkbiblioteken, tid, få, tillgång, litteratur",1,Jönköpings
-19,"jönköpings, jönköpings kommun, mammans län, mammans, kommun",4,Jönköpings
-20,"ansvarar, staten, ansvarar staten, landsting, kommuner",1,Jönköpings
-21,"fått rfid taggar, medier fått rfid, medier fått rfid taggar, fått rfid, rfid taggar",2,Jönköpings
-23,"jönköpings, består, folkbiblioteksverksamheten, öxnehaga, råslätt öxnehaga",4,Jönköpings
-24,"timmar, öppet, timmar vecka, vecka, habo",3,Jönköpings
-25,"gnosjö, habo, kommun, biblioteksplan, kommunfullmäktige",7,Jönköpings
-26,"fjärrlån, bibliotek, lösningar, förfogande, it",1,Jönköpings
-29,"elevernas, skolbiblioteket, del andras åsikter, eget tänkande tyckande, andras åsikter andra",6,Jönköpings
--1,"biblioteket, barn, bibliotek, biblioteken, genom",195,Västerbotten
-0,"digitala, digital, digitalt, biblioteket, handledning",11,Västerbotten
-1,"biblioteksrummet, biblioteket, naturligt grunden, arrangemang, naturligt",5,Västerbotten
-2,"v8, samarbetet, bibliotek, biblioteken, samverkan",10,Västerbotten
-3,"biblioteksplan, kommun, 2020, bibliotek, 2023",8,Västerbotten
-4,"personer, särskild uppmärksamhet, uppmärksamhet, särskild, ägna särskild uppmärksamhet",4,Västerbotten
-5,"biblioteksplanen, nyckeltal, årligen, uppföljning, mål",8,Västerbotten
-6,"skolbibliotek, folk skolbibliotek, finns, elever, vännäs",3,Västerbotten
-7,"digitala, skolbiblioteket, elevernas, stärka, stärka elevers",3,Västerbotten
-8,"rättigheter, barnets, barnets rättigheter, fn, fn konvention barnets rättigheter",2,Västerbotten
-9,"befolkningen, procent utrikes födda personer, utrikes födda personer, utgörs ca 11 procent utrikes, utgörs ca 11 procent",3,Västerbotten
-10,"minoritetsspråken, nationella, svenska, nationella minoritetsspråken, minoritetsspråken svenska lätt",2,Västerbotten
-11,"sfs, 801, 2013 801, 2013, kommun",7,Västerbotten
-12,"kommun, kultur, dorotea, främja, kommunen",10,Västerbotten
-14,"lagen, verka, kommuner folkbibliotek främjande läsning, publiceringsform bibliotekslagen ger, därutöver anger lagen",1,Västerbotten
-15,"kommer folkbiblioteket, folkbiblioteket, medieanslaget speglar, mediestrategi framgå, arbetet tydligare kommer folkbiblioteket",1,Västerbotten
-16,"elevernas, tillgång skolbibliotek, skolbibliotek, eleverna, eleverna tillgång skolbibliotek",6,Västerbotten
-17,"organisationer föreningar, målgrupperna, organisationer, föreningar, utbud bibliotekspersonalen fortbildas språk mångkultur",1,Västerbotten
-18,"tillgång, folkbiblioteken, litteratur, enligt, tillgång skolbibliotek",3,Västerbotten
-19,"vännäs, vännäs kommun, kommun, bibliotekets, bibliotek",6,Västerbotten
-21,"biblioteket, distansstuderande, andra, ljudböcker, böcker",2,Västerbotten
-23,"bibliotek, folk skolbibliotek, folk, folk skolbibliotek nytt kombinerat, samhällsbyggnad kommunstyrelsen ansvarig",2,Västerbotten
-24,"timmar, öppet, veckan, timmar veckan, dagar",4,Västerbotten
-26,"regionbiblioteket, regional, lånecentraler, länet, västerbotten",4,Västerbotten
-28,"år krävs, år krävs aktiva insatser minst, läsförståelse kunnat observeras, utvecklingen gäller läsförståelse, senare år krävs",2,Västerbotten
--1,"biblioteket, barn, genom, olika, bibliotek",282,Örebro
-0,"digitala, digital, biblioteken, delaktighet, teknik",18,Örebro
-1,"biblioteket, finns, rum, människor, plats",20,Örebro
-2,"samverkan, örebro, bibliotek, län, örebro län",11,Örebro
-3,"biblioteksplan, kommun, bibliotekslagen, biblioteksverksamhet, styrdokument",6,Örebro
-4,"funktionsnedsättning, personer, annat, särskild uppmärksamhet, uppmärksamhet",13,Örebro
-5,"biblioteksplanen, uppföljning, 2023, 2021, år",10,Örebro
-6,"skola, skolbibliotek, f6, elever, degerfors",9,Örebro
-7,"eleverna, förmåga, elevernas, elever, digitala",4,Örebro
-8,"barn, rätt, rättigheter, barnets, fn",7,Örebro
-9,"hällefors, kommun, befolkningen, kommunen, invånare",5,Örebro
-10,"svenska, nationella, minoritetsspråken, nationella minoritetsspråken, annat",9,Örebro
-11,"organisera, https, https www, via https, via https www",2,Örebro
-12,"kommunens, lindesbergs, kommunen, 2030, kommun",3,Örebro
-13,"barn, biblioteket, år, böcker, gång",12,Örebro
-14,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",5,Örebro
-15,"media, medier, in, andra bibliotek, köps in",5,Örebro
-16,"skolbibliotek, tillgång skolbibliotek, elevernas, eleverna, tillgång",3,Örebro
-17,"personalen, nya, metoder, kompetenser, kompetensutveckling",5,Örebro
-18,"folkbiblioteken, tid, tillgång, få, litteratur",5,Örebro
-19,"hällefors, hällefors kommun, kommun, stark hållbar, stark hållbar framtid",3,Örebro
-20,"ansvarar, staten, ansvarar staten, enskilda, kommuner",6,Örebro
-21,"finns, böcker, biblioteket, hublets, även",6,Örebro
-23,"folkbibliotek karlskoga, karlskoga, folkbibliotek karlskoga bibliotek folkbiblioteket allas, biblioteksverksamhet känner inkluderade välkomna, biblioteket ständigt utvecklingsarbete utgångspunkt mänskliga",1,Örebro
-24,"timmar, öppet, veckan, dagar, timmar veckan",2,Örebro
-25,"biblioteksplanen, biblioteksplan, kommunens, styrdokument, kommun",4,Örebro
-26,"lånecentraler, högskolebibliotek, förfogande, finnas, avgiftsfritt",3,Örebro
-27,"föreningslivet studieförbund, föreningslivet, årskurs, studieförbund, erbjuds skollov",1,Örebro
-28,"skrivande, läsfrämjande, läsning, satsningar informationsteknik informationskompetens8, samhällsklimat märks även inne",2,Örebro
-29,"elever, läsfrämjande, väcker, elevernas, böcker",5,Örebro
--1,"biblioteken, barn, biblioteket, genom, olika",124,Västernorrland
-0,"digitala, digital, tjänster, digitalt, undervisningsnära tjänster",7,Västernorrland
-1,"tillgängliga, biblioteket, biblioteken, värna, faktorer",3,Västernorrland
-2,"länsbiblioteket, samverkar, samverkan, nivå, länet",6,Västernorrland
-3,"kommun, 10, 11, biblioteksplan, utvecklingsområden",6,Västernorrland
-4,"personer, annat, särskild, litteratur, särskild uppmärksamhet",5,Västernorrland
-5,"31 planen ligger grund bibliotekets, följs årligen skriftlig rapport, rapport bildningsnämnden, skriftlig rapport, skriftlig rapport bildningsnämnden",1,Västernorrland
-7,"elevernas, läroplanerna, skolbibliotekets verksamhet, skolbibliotekets, skolans",1,Västernorrland
-8,"rättigheter, rätt, barnets, fn, fn konvention",2,Västernorrland
-9,"timrå, sundsvall, timrå kommun, sidan, kommunen",1,Västernorrland
-10,"nationella, svenska, minoritetsspråken, personer, språk",4,Västernorrland
-12,"rikare, tillväxt, kapital, sundsvall, hållbar",4,Västernorrland
-14,"fri, allmänna, allmänna biblioteksväsendet, biblioteksväsendet, biblioteken allmänna biblioteksväsendet",3,Västernorrland
-15,"medier, gallrar, bestånd, gallring, sker",5,Västernorrland
-16,"skolbibliotek, tillgång skolbibliotek, eleverna tillgång skolbibliotek, eleverna tillgång, tillgång",2,Västernorrland
-18,"utskottet, kommunstyrelsen, folkbiblioteken, få, kommunstyrelsen ansvarar kommunens",1,Västernorrland
-19,"sundsvalls, kommun, landsbygden, genom, bidrar",5,Västernorrland
-23,"söråker, bägge, timrå, filialbibliotek, veckan",1,Västernorrland
-24,"timmar, ersättning motsvarande, veckan, filialbiblioteket, ersättning",1,Västernorrland
-25,"biblioteksplanen, styrdokument, sollefteå kommuns, sollefteå, biblioteksverksamheten",3,Västernorrland
-26,"ställa litteratur, ställa, förfogande, länsbiblioteket, lånecentraler",1,Västernorrland
-28,"läsning, olika, läsfrämjande, barn, läsa",4,Västernorrland
--1,"barn, biblioteket, medier, olika, finns",143,Blekinge
-0,"digitala, digitalt, digital, tjänster, öka",18,Blekinge
-1,"biblioteket, lokaler, erbjuda, tillgång, arrangemang",9,Blekinge
-2,"blekinge, blekinge kronoberg, kronoberg, bibk, samverkan",12,Blekinge
-3,"kommun, biblioteksplan, 10, ronneby, 2019",5,Blekinge
-4,"minoritetsspråken, nationella, ägna särskild uppmärksamhet, ägna särskild, ägna",1,Blekinge
-5,"ändras, uppföljning, kommunens, årsvis genom bland annat kommunens, årsvis genom bland annat",1,Blekinge
-6,"skola, finns, skolbibliotek, grundskolor, kommun finns",6,Blekinge
-7,"skolbiblioteket, skolans, kompetens, elever, elevernas",7,Blekinge
-8,"blekinge, rättigheter, barn, barnets, region blekinge",2,Blekinge
-9,"ca, år, åldersklassen, äldre, förväntas",13,Blekinge
-10,"nationella, annat, modersmål, kommunprogram, svenska",2,Blekinge
-12,"ronneby, strategiska målområden, bra, framgångskommun, målområden",3,Blekinge
-13,"böcker, barnet, erbjuds, barn, ytterligare bok samband",3,Blekinge
-14,"allmänna, allmänna biblioteksväsendet, biblioteksväsendet, åsiktsbildning, fri åsiktsbildning",2,Blekinge
-15,"inköp, medier, utbud, inköpsförslag, finns",14,Blekinge
-16,"elevernas, skolbibliotek, skolinspektionen, ställs, tillgång skolbibliotek",1,Blekinge
-17,"personalen, projektorienterad, nya arbetssätt implementeras, implementeras exempelvis, implementeras exempelvis tydlig projektorienterad organisation",3,Blekinge
-18,"folkbiblioteken, litteratur, antal utlån, medier, skollagen",2,Blekinge
-19,"entreprenörskap, företagsamhet entreprenörskap, företagsamhet, finns tillgänglig flera kommunens, inriktningsmål stark koppling människors möjligheter",1,Blekinge
-23,"folk, karlshamns, bibliotek, olofströms, stadsbibliotek",8,Blekinge
-24,"stads filialbiblioteken, timmar, nedladdningar, öppet, filialbiblioteken",1,Blekinge
-25,"kulturnämnden utbildningsnämnden, teknik fritid kulturnämnden utbildningsnämnden, fritid kulturnämnden utbildningsnämnden, teknik fritid kulturnämnden, teknik fritid",1,Blekinge
-26,"regionala, bibk, landsting, regional, blekinge kronoberg",1,Blekinge
-29,"åtgärder fram 2023 skolbibliotekarierna visar, visar databaser finns användas, databaser finns användas, finns användas undervisningen, fram 2023 skolbibliotekarierna visar",3,Blekinge
--1,"biblioteket, barn, olika, folkbiblioteket, genom",135,Gävleborg
-0,"digitala, it, it miljö, mik, kompetenshöjande",4,Gävleborg
-1,"biblioteket, andra, mål biblioteket, tysta zoner finnas, finnas lokalen behöver",5,Gävleborg
-2,"samarbetspartners, lokala, lokala bokhandeln lokala museet, integrations omsorgsenheterna samarbetspartners, utbildnings integrations omsorgsenheterna samarbetspartners kommunen",3,Gävleborg
-3,"sandvikens, sandvikens kommun, kommun, sandviken sandvikens, sandviken sandvikens kommun",8,Gävleborg
-4,"annat, nationella, litteratur, erbjuda litteratur, minoritetsspråken",6,Gävleborg
-5,"biblioteksplanen, plan, revideras, utvärderas, utvärdering",2,Gävleborg
-6,"skolbibliotek, elever, finns, hofors kommun, kommunens",6,Gävleborg
-7,"trygg utvecklande mötesplats, utvecklande mötesplats, trygg utvecklande, elevernas, utvecklande",2,Gävleborg
-8,"barn, rätt, rättigheter, barnkonventionen, fn",3,Gävleborg
-9,"äldre, år, befolkningen, 65 år, 65",2,Gävleborg
-10,"svenska, nationella, språk, andra, andra språk",6,Gävleborg
-11,"kungliga biblioteket, kungliga, stockholm, sandvikens, stockholm kungliga biblioteket",8,Gävleborg
-12,"miljöfrågor, kommun, agenda 2030, agenda, kommunen",3,Gävleborg
-13,"barn, barn unga, unga, år, minst",3,Gävleborg
-14,"biblioteken allmänna biblioteksväsendet, biblioteken allmänna, allmänna biblioteksväsendet, biblioteksväsendet, allmänna",3,Gävleborg
-15,"helge biblioteken, utbud media, helge, låntagarna, boken",1,Gävleborg
-16,"elevernas, tillgång skolbibliotek, skolbibliotek, tillgång, eleverna",2,Gävleborg
-17,"utveckla elevernas, kvalité, kompetensutveckling, personalen behöver kontinuerlig kompetensutveckling utbildning, samhället stort medför personalen behöver",1,Gävleborg
-18,"folkbiblioteken, tillgång, litteratur, tid, skolbibliotek",3,Gävleborg
-19,"mötesplatser, beläget skola biblioteket, skola biblioteket enda, skola biblioteket enda biblioteket kommunen, respektive kommundel",1,Gävleborg
-20,"ansvarar, staten, kommuner, ansvarar staten, bestämmelserna kap skollagen 2010 800",2,Gävleborg
-21,"bibliotekets, hösten, kommunen, teknik, plats hösten 2018 biblioteket",2,Gävleborg
-22,"helge, samarbetet, familjen, helsingborg, familjen helsingborg",6,Gävleborg
-23,"söderhamns, huvudbiblioteket, folkets hus, folkets, hus",2,Gävleborg
-24,"litteraturhuset trampolin, litteraturhuset, trampolin, timmar, timmar vecka",2,Gävleborg
-26,"lånecentraler, områden anknyter, forskning universitetet högskolan, universitetet högskolan, forskning universitetet",2,Gävleborg
-29,"läslust genom erbjuda visning folkbiblioteketbjuda, erbjuda visning folkbiblioteketbjuda, bokskolaerbjuda bokprat biblioteketbjuda in, bokskolaerbjuda bokprat, bokskolaerbjuda bokprat biblioteketbjuda",1,Gävleborg
--1,"biblioteket, barn, biblioteken, medier, litteratur",147,Norrbotten
-0,"digitala, digital, biblioteket, tjänster, digitalt",22,Norrbotten
-1,"biblioteket, mötesplats, bibliotekets, möten, erbjuda",11,Norrbotten
-2,"bibblo, bibblo se, samarbetet, se, gemensamma",6,Norrbotten
-3,"11, jokkmokks, kommun, bibliotekslag, bibliotekslag 2013 801",4,Norrbotten
-4,"personer, nationella, funktionsnedsättning, personer funktionsnedsättning, uppmärksamhet",7,Norrbotten
-5,"uppföljning, barn unga, unga, uppföljning utvärdering, utvärdering",2,Norrbotten
-6,"arvidsjaurs, arvidsjaurs kommun, finns, skolbibliotek, barn",8,Norrbotten
-7,"skolbiblioteket, ungdomsbibliotekarie, årskurs, skolan, rektor",3,Norrbotten
-8,"barn, rätt, barnkonventionen, barn rätt, januari 2020",4,Norrbotten
-9,"arvidsjaur, år, bor, arjeplogs kommun, arjeplogs",2,Norrbotten
-10,"nationella, svenska, språk, minoritetsspråken, finska",8,Norrbotten
-11,"sfs, biblioteksplan, biblioteksbehovet, sfs 2009, samt",2,Norrbotten
-13,"barn, biblioteket, sagostunder, besöker, föräldramöten",6,Norrbotten
-14,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, verksamhet, tydliggöra",4,Norrbotten
-15,"material, inköp, pornografiskt material, rasistiskt material, barnpornografi",2,Norrbotten
-16,"skolbibliotek, elevernas, skolbiblioteket, tillgång skolbibliotek, eleverna",4,Norrbotten
-18,"folkbiblioteken, tid, få, tillgång, litteratur",1,Norrbotten
-19,"arjeplogs, arjeplogs kommun, livsmiljö, tillväxt, biblioteket viktigt centrum kultur lärande",2,Norrbotten
-20,"ansvarar, staten, ansvarar staten, enskilda, kommuner",3,Norrbotten
-21,"databaser, även, utlån även söka information, bibliotekets publika datorer del, även hemifrån via remote",1,Norrbotten
-23,"jokkmokks, vuollerim, jokkmokks kommun, samiska, personer",1,Norrbotten
-24,"timmar, öppet, biblioteket, veckan, timmar vecka",2,Norrbotten
-25,"planen, biblioteksplan, biblioteksplanen, kiruna, kommuns",4,Norrbotten
-26,"lånecentraler, förfogande, avgiftsfritt, medieförsörjning finnas flera lånecentraler, medieförsörjning finnas flera",2,Norrbotten
-28,"läsning, personer, litteratur, olika, personer funktionsnedsättning",3,Norrbotten
--1,"biblioteket, barn, genom, olika, biblioteken",783,Västra Götaland
-0,"digitala, digital, biblioteket, biblioteken, tjänster",58,Västra Götaland
-1,"biblioteket, olika, plats, biblioteken, också",46,Västra Götaland
-2,"bibliotek, samverkan, biblioteken, bibliotek mellansjö, mellansjö",63,Västra Götaland
-3,"kommun, biblioteksplan, biblioteksplanen, bibliotek, 10",43,Västra Götaland
-4,"personer, annat, särskild uppmärksamhet, uppmärksamhet, särskild",35,Västra Götaland
-5,"uppföljning, biblioteksplanen, utvärdering, mål, revideras",15,Västra Götaland
-6,"skolbibliotek, finns, elever, volymer, skola",30,Västra Götaland
-7,"elevernas, elever, skolbiblioteket, digitala, kompetens",21,Västra Götaland
-8,"rätt, barn, rättigheter, barnkonventionen, barnets",12,Västra Götaland
-9,"kommunen, år, kommun, karlsborg, kadsborg",8,Västra Götaland
-10,"nationella, svenska, minoritetsspråken, nationella minoritetsspråken, modersmål",13,Västra Götaland
-11,"biblioteksplan, sfs, bibliotekslagen, 801, kommun",19,Västra Götaland
-12,"kommun, strategiska, mål, strategiska mål, ulricehamns kommun",7,Västra Götaland
-13,"biblioteket, barn, år, in, får",18,Västra Götaland
-14,"allmänna, allmänna biblioteksväsendet, biblioteksväsendet, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",14,Västra Götaland
-15,"media, efterfrågan, medier, bibliotekets, in",14,Västra Götaland
-16,"skolbibliotek, tillgång skolbibliotek, elevernas, eleverna, tillgång",5,Västra Götaland
-17,"nya, personalen, behöver, kunna, krav",11,Västra Götaland
-18,"folkbiblioteken, tillgång, tid, få, litteratur",19,Västra Götaland
-19,"biblioteket, kommun, kommunen, genom, kommunens",7,Västra Götaland
-20,"ansvarar, staten, ansvarar staten, kommuner, enskilda",15,Västra Götaland
-21,"biblioteket, finns, via, bibliotekets, böcker",12,Västra Götaland
-23,"konsthall arkiv, kulturhuset förutom, konsthall, talet, arkiv",1,Västra Götaland
-24,"timmar, dagar, öppet, veckan, vecka",5,Västra Götaland
-25,"biblioteksplan, biblioteksplanen, styrdokument, planen, kommuns",8,Västra Götaland
-26,"lånecentraler, förfogande, avgiftsfritt, finnas, ställa litteratur",13,Västra Götaland
-27,"dalsland, bibliotek, bibliotek dalsland, öckerö, it",18,Västra Götaland
-28,"ökad läslust, läslust, bibliotekspedagogen, läsning, ökad",7,Västra Götaland
-29,"skolans, elever, elevernas, genom, läsförståelse",5,Västra Götaland
+1,"knivsta, knivsta bibliotek, bibliotek, samverkan, uppsala",4,Uppsala
+2,"biblioteksplan, kommun, heby, tierps, tierps kommun",4,Uppsala
+3,"svenska, språk, andra språk, andra, biblioteken",6,Uppsala
+4,"folkbiblioteken, kulturlivet 5barn ungdomar, tillgång litteratur också verka, kunskapsinhämtning lärande delaktighet kulturlivet 5barn, lärande delaktighet kulturlivet 5barn",1,Uppsala
+5,"kommun, håbo, strategiska inriktningsområden, biblioteksplan östhammars, biblioteksplan östhammars kommun",2,Uppsala
+6,"knivsta, knivsta bibliotek, bibliotek, bibliotekslagen anges bibliotek bibliotekshuvudmän, kontoret kultur fritid kultur fritidspolitiskt",1,Uppsala
+7,"heby, många, heby kommun, kommunen, kommun",4,Uppsala
+8,"heby, känna, effektmål, kommun, relaterar effektmål",13,Uppsala
+9,"skolbibliotek, elevernas, tillgång skolbibliotek, skollagen, tillgång",5,Uppsala
+11,"deltar region uppsalas utbildningssatsning digitalt, region uppsalas utbildningssatsning digitalt först, utbildningssatsning digitalt först omvärldsbevakning, utbildningssatsning digitalt först, utbildningssatsning digitalt",1,Uppsala
+12,"demokratiuppdrag, bestånd medier, böcker, bestånd, medier",1,Uppsala
+13,"heby, biblioteksväsendet, allmänna biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet",3,Uppsala
+18,"knivsta, knivsta bibliotek, knivsta kommun, bibliotek, biblioteksplanen",1,Uppsala
+19,"sprida information, sprida, biblioteken, litteratur, medier",1,Uppsala
+20,"heby, heby kommun, familjen, helsingborg, bibliotek",4,Uppsala
+23,"kommunstyrelsen, biblioteksplanen, tillämpar även synpunkts klagomålshantering, knivsta bibliotek tillämpar även synpunkts, innebär klagomål",1,Uppsala
+26,"barn, ungdomar, kultur ge biblioteksvana åtaganden45, vikas barnmedier hälften, åtaganden45 bibliotekens medieanslag vikas",1,Uppsala
+27,"daisyspelare, mtm, fler läsa daisyspelare, daisyspelare gör, möjligt fler läsa",3,Uppsala
+29,"nedladdningstillstånd, talböcker, laddar, ner talböcker, ner",1,Uppsala
+-1,"biblioteket, genom, barn, olika, samt",238,Östergötland
+0,"digitala, biblioteket, digital, digitalt, samhället",19,Östergötland
+1,"östergötland, götabiblioteken, samverkan, linköpings, biblioteken",16,Östergötland
+2,"biblioteksplan, linköpings, område, kommun, 2022",5,Östergötland
+3,"svenska, språk, genom, andra språk, andra",4,Östergötland
+4,"folkbiblioteken, mjölby, lärande, främja, läsning",5,Östergötland
+5,"kommun, biblioteksplanen, planen, biblioteksplan, invånarna initiativrika",3,Östergötland
+6,"nationella, svenska, annat, erbjuda litteratur, allmänna biblioteksväsendet ägna",4,Östergötland
+7,"ödeshög, öppna arbetslösheten låg 2018 rikssnitt, arbetslösheten låg 2018, arbetslösheten låg 2018 rikssnitt, låg 2018 rikssnitt",2,Östergötland
+8,"föreningar, kommun, genom, vill utveckla 2020, utveckla 2020",2,Östergötland
+9,"skolbibliotek, elevernas, tillgång skolbibliotek, tillgång, eleverna",6,Östergötland
+10,"östergötland, elever, regionbibliotek östergötland, finns, skolbibliotek",4,Östergötland
+12,"medier, format, brett, kvalitet, efterfrågan",3,Östergötland
+13,"biblioteksväsendet, allmänna biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",6,Östergötland
+14,"barnbibliotekarien, egna bestånd, barn, förskolan, enheternas egna",5,Östergötland
+16,"biblioteket, ytterligare, eget, plats, nya",4,Östergötland
+18,"biblioteksplan, 2020, ödeshög, biblioteksplanen, bibliotekslagen",5,Östergötland
+19,"biblioteket, läsning, läslust, besökarna, litteratur",6,Östergötland
+21,"timmar, timmar vecka, vecka, öppet, bemannat",3,Östergötland
+22,"ansvarar, staten, landsting, kommuner, ansvarar staten",2,Östergötland
+23,"valdemarsviks, biblioteksplanen, planen, kommun också viktigt planen, dokument därför",1,Östergötland
+24,"folkbiblioteken, tid, tillgång, få, eleverna grundskolan grundsärskolan specialskolan sameskolan",2,Östergötland
+25,"biblioteksrummet, typer aktiviteter samtal, ovana besökare samtidigt, säkra verksamheten bibliotekens, låga trösklar locka nya ovana",1,Östergötland
+26,"barn, unga, barn unga, folkbibliotek barn unga, biblioteket",3,Östergötland
+27,"talböcker, nå kommuninvånare, mtm, medier, anpassade",1,Östergötland
+28,"lånecentraler, högskolebibliotek, biblioteksverksamhet, tillgång, regional biblioteksverksamhet",2,Östergötland
+29,"funktionsnedsättning, personer, sjukdom funktionsnedsättning själva, särskilda boenden levereras, boklådor digitala tillgängligheten högre",1,Östergötland
+-1,"biblioteket, barn, bibliotek, finns, olika",283,Kalmar
+0,"digitala, biblioteket, digital, också, bibliotekets",34,Kalmar
+1,"kalmar, andra, genom, bibliotek, biblioteken",10,Kalmar
+2,"biblioteksplan, kommun, biblioteket utvecklingsmål, kalmar, utvecklingsmål",6,Kalmar
+3,"svenska, språk, biblioteket, andra, andra språk",6,Kalmar
+4,"folkbiblioteken, utbud, folkbibliotek, behov folkbibliotekens utbud medier, anpassade användarnas behov folkbibliotekens",7,Kalmar
+5,"biblioteksplanen, biblioteksplan, mörbylånga, kommun, planen",6,Kalmar
+6,"nationella, svenska, annat, minoritetsspråken, nationella minoritetsspråken",11,Kalmar
+7,"kalmar, befolkningen, kalmar kommun, kommun, resten",3,Kalmar
+9,"nybro, lagen efterföljs nybro kommuns, skolinspektionen instans, pedagogiska verksamhet skolinspektionen, kommuns första biblioteksplan",1,Kalmar
+10,"skolbibliotek, åk, skola, elever, skolbiblioteket",7,Kalmar
+11,"kalmar län 2015, län 2015, lagrummet, borgholms kommun, borgholms",1,Kalmar
+12,"gallring, filialerna, magasin, inköp, böcker",11,Kalmar
+13,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",7,Kalmar
+14,"barn, förskolan, nybro, förskolor, biblioteket",4,Kalmar
+15,"personalen, kunna, uppgifter, kompetensutveckling, bibliotek",17,Kalmar
+16,"biblioteket, kunskap, välkomna, dit välkomna, kunskap lärande",4,Kalmar
+18,"emmaboda, biblioteksplanen, biblioteksplan, sfs, 2013",2,Kalmar
+19,"genom, biblioteket, litteratur, medier, 12",7,Kalmar
+21,"öppet, invånare 2018, upptagningsområde, timmar, biblioteket samarbetar skola",7,Kalmar
+22,"ansvarar, staten, ansvarar staten, kommuner, enskilda",8,Kalmar
+23,"sammanställs verksamhetsplanen folkbiblioteksverksamheten följs, biblioteksplaner verksamhet biblioteksområdet biblioteksplanen giltig, också genom regelbundna, aktiviteter görs samband, verksamhetsplanen folkbiblioteksverksamheten följs också",1,Kalmar
+24,"folkbiblioteken, tid, avgiftsfritt, få, litteratur",4,Kalmar
+25,"biblioteket, fysiska, rummen, inredningen, inbjudande",8,Kalmar
+26,"barn, biblioteket, sagostunder, erbjuda, unga",3,Kalmar
+27,"talböcker, mtm, böcker, biblioteket, ladda",3,Kalmar
+28,"lånecentraler, högskolebibliotek, biblioteksverksamhet, finnas, områden anknyter",6,Kalmar
+29,"personer, funktionsnedsättning, personer funktionsnedsättning, litteratur, erbjuda",4,Kalmar
+-1,"barn, biblioteket, finns, medier, olika",155,Blekinge
+0,"digitala, digital, digitalt, tjänster, öka",23,Blekinge
+1,"blekinge, blekinge kronoberg, samverkan, kronoberg, bibk",14,Blekinge
+2,"biblioteksplan, kommun, 10, karlshamn, utvecklingsmål",4,Blekinge
+3,"språk, svenska, böcker, andra språk, medier",5,Blekinge
+4,"folkbiblioteken, folkbiblioteket, medier, antal utlån, litteratur",3,Blekinge
+5,"biblioteksplanen, planen, biblioteksplanen utformad, därmed aktuell, lokal personalstruktur samt utifrån såväl",3,Blekinge
+6,"nationella, minoritetsspråken, annat, svenska, ägna särskild",2,Blekinge
+7,"ca, år, åldersklassen, äldre, förväntas",13,Blekinge
+8,"ronneby, strategiska målområden, bra, framgångskommun, målområden",3,Blekinge
+9,"elevernas, skolbibliotek, skolans, eleverna, skolbiblioteket",3,Blekinge
+10,"skola, finns, skolbibliotek, kommun finns, grundskolor",5,Blekinge
+12,"inköp, medier, inköpsförslag, in, utbud",12,Blekinge
+13,"allmänna, biblioteksväsendet, allmänna biblioteksväsendet, biblioteken, bidra kunskapsförmedling fri",3,Blekinge
+14,"böcker, barnet, erbjuds, bokprat, gåvobok delas familjen biblioteksbesök",3,Blekinge
+15,"personalen, projektorienterad, projektorienterad organisation, arbetssätt implementeras exempelvis, arbetssätt implementeras exempelvis tydlig",3,Blekinge
+16,"organisationer, bemannade bibliotek kompetent personalerbjuda, anknytning kulturverksamhetha bemannade bibliotek, programverksamheterbjuda, 2019 2022 rfid självutlåning",1,Blekinge
+17,"blekinge, rättigheter, barn, barnets, region blekinge",2,Blekinge
+18,"bibliotekslagen, övergripande, biblioteksväsendet, svenska, 06 25 kommunfullmäktige styrande",1,Blekinge
+21,"stads filialbiblioteken, timmar, nedladdningar, öppet, filialbiblioteken",1,Blekinge
+24,"skollagen, folkbiblioteken, 10, skolbibliotek, lärande",1,Blekinge
+25,"erbjuda, arrangemang, föreningar, mer öppet, biblioteket",1,Blekinge
+28,"regionala, bibk, landsting, regional, blekinge kronoberg",1,Blekinge
+-1,"biblioteket, barn, olika, samt, medier",173,Västmanland
+0,"digitala, digital, tjänster, biblioteket, samhället",8,Västmanland
+1,"västmanland, samverkan, bibliotek, länet, samarbetet",18,Västmanland
+2,"biblioteksplan, kommun, fagersta, antagen, samverkan",3,Västmanland
+3,"svenska, språk, biblioteket, andra, andra språk",8,Västmanland
+4,"folkbiblioteken, folkbiblioteket, folkbibliotekets, lärande, folkbibliotek",9,Västmanland
+5,"biblioteksplanen, biblioteksplan, kommunens, planen, kommunens samlade biblioteksverksamhet",5,Västmanland
+6,"nationella, minoritetsspråken, nationella minoritetsspråken, svenska, annat",7,Västmanland
+7,"år, kungsör, cirka, mil, födda",6,Västmanland
+9,"skolbibliotek, tillgång skolbibliotek, skolans, grundskolan, tillgång",3,Västmanland
+10,"skolbibliotek, karls, karls skola, finns, skola",3,Västmanland
+11,"fichtelius eva enarson krister hansson, integration 38eric fichtelius eva, segregation integration 38eric, klein christina persson red femte, krister hansson jesper klein",1,Västmanland
+12,"biblioteksanvändarna, lämna, följa användande, biblioteket, medier",3,Västmanland
+13,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, biblioteksverksamhet, biblioteken allmänna biblioteksväsendet",4,Västmanland
+14,"barn, aktiva låntagare, biblioteket, aktiva, önskemål",2,Västmanland
+15,"kompetens, bibliotekets, bibliotek, behöver, personalen",4,Västmanland
+16,"biblioteket, biblioteket naturlig plats kulturella aktiviteter, biblioteket naturlig plats kulturella, såväl, naturlig plats kulturella aktiviteter",2,Västmanland
+17,"rätt, barnets, barnkonventionen, barn, barns",2,Västmanland
+19,"samt, biblioteket, fortsatt, skoltiden viktigt personal ges, olika bakgrund erfarenheter",1,Västmanland
+21,"öppet, timmar, veckan, timmar veckan, håller öppet",2,Västmanland
+22,"ansvarar, staten, ansvarar staten, enskilda, kommuner",6,Västmanland
+23,"biblioteksplanen, verksamhetsplanerna kommer anges aktiviteter kopplas, målen sätt följs sju, kommer anges aktiviteter, tredje år årliga verksamhetsplanerna kommer",1,Västmanland
+24,"folkbiblioteken, tid, tillgång, avtalad tid lämnar tillbaka lånat, låntagare avtalad tid lämnar",3,Västmanland
+25,"ställen, lämpliga, ljudslinga ställen behövs kommunen, målgruppen bibliotekslokalen lämpliga, utrustad ljudslinga",1,Västmanland
+26,"barn, barn ungdom bibliotekspersonal, använda 40 mediabudget inköp, mediabudget inköp media olika, livet bibliotekets viktigaste",1,Västmanland
+27,"talböcker, böcker, bilderböcker, biblioteket, teckenspråk",7,Västmanland
+28,"lånecentraler, högskolebibliotek, förfogande, finnas, avgiftsfritt",3,Västmanland
+29,"funktionsnedsättning, personer, ta, grupper, funktionsnedsättningpersoner funktionsnedsättning",3,Västmanland
+-1,"biblioteket, barn, genom, biblioteken, olika",774,Skåne
+0,"digitala, digital, biblioteket, kunna, biblioteken",98,Skåne
+1,"samverkan, bibliotek, biblioteken, skåne, samarbeten",33,Skåne
+2,"biblioteksplan, kommun, 10, kultur, 2019",19,Skåne
+3,"svenska, språk, biblioteket, medier, andra",10,Skåne
+4,"folkbiblioteken, främja, folkbiblioteket, litteratur, behov",14,Skåne
+5,"biblioteksplanen, biblioteksplan, planen, kommun, styrdokument",20,Skåne
+6,"nationella, svenska, annat, minoritetsspråken, ägna särskild",15,Skåne
+7,"år, befolkningen, eslövs, äldre, kommunen",14,Skåne
+8,"lomma, kommun, lomma kommun, invånarna, kommunens",10,Skåne
+9,"skolbibliotek, tillgång skolbibliotek, elevernas, eleverna, tillgång",15,Skåne
+10,"skolbibliotek, elever, finns, vt, vt 2021",15,Skåne
+11,"stockholm, skolverket, simrishamns, hämtad, simrishamns kommun",43,Skåne
+12,"medier, inköp, simrishamns, genom, na",5,Skåne
+13,"allmänna, biblioteksväsendet, allmänna biblioteksväsendet, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",12,Skåne
+14,"barn, erbjuds, in, bjuds, förskolorna",4,Skåne
+15,"behöver, kunna, personalen, kompetens, kompetensutveckling",10,Skåne
+16,"biblioteket, rum, plats, upplevelser, möten",6,Skåne
+17,"rätt, barn, fn, rättigheter, barnets",13,Skåne
+18,"biblioteksplan, bibliotekslagen, åstorps, bibliotek, biblioteksplanen",12,Skåne
+19,"biblioteket, läsfrämjande, genom, litteratur, öka",7,Skåne
+20,"familjen, helsingborg, familjen helsingborg, bibliotek familjen, bibliotek familjen helsingborg",52,Skåne
+21,"timmar, öppet, vecka, veckan, timmar vecka",11,Skåne
+22,"ansvarar, staten, ansvarar staten, kommuner, landstingen",9,Skåne
+23,"biblioteksplanen, uppföljning, revidering, årliga, sker",8,Skåne
+24,"folkbiblioteken, tillgång, tid, få, litteratur",6,Skåne
+25,"biblioteket, studier, tysta, besökare, biblioteksrummet",10,Skåne
+26,"barn, 2014, biblioteket, unga, barn unga",8,Skåne
+27,"talböcker, böcker, talböcker talböcker, läsa, syn",2,Skåne
+28,"lånecentraler, biblioteksverksamhet, ställa litteratur, förfogande, högskolebibliotek",6,Skåne
+29,"personer, annat, funktionsnedsättning, medier, svenska",4,Skåne
+-1,"biblioteket, barn, biblioteken, litteratur, samt",153,Norrbotten
+0,"digitala, digital, biblioteket, tjänster, digitalt",25,Norrbotten
+1,"samverkansavtal reglerar, samverkansavtal reglerar samarbetet, länet, reglerar samarbetet, samverkansavtal",3,Norrbotten
+2,"11, jokkmokks, kommun, bibliotekslag, bibliotekslag 2013",4,Norrbotten
+3,"svenska, språk, andra språk, andra, biblioteket",7,Norrbotten
+4,"folkbiblioteken, folkbibliotekens utbud medier tjänster präglas, folkbibliotekens utbud medier tjänster, folkbibliotekens utbud medier, utbud medier tjänster präglas allsidighet",2,Norrbotten
+5,"planen, biblioteksplan, biblioteksplanen, kiruna, kommuns",5,Norrbotten
+6,"nationella, svenska, minoritetsspråken, erbjuda litteratur, annat",4,Norrbotten
+7,"arjeplogs kommun, år, arjeplogs, innevånare varav 157 barn, åldern år år 2015 246",1,Norrbotten
+8,"företag, konkurs företag, behoven föränderlig värld relevanta kommunens, möter behoven föränderlig, behoven föränderlig värld",1,Norrbotten
+9,"skolbibliotek, elevernas, skolbiblioteket, tillgång skolbibliotek, eleverna",5,Norrbotten
+10,"finns, arvidsjaurs kommun, ringelskolan, skolbibliotek, bemannat",7,Norrbotten
+12,"material, inköp, material material tveksam kvalité, barnpornografi rasistiskt material, barnpornografi rasistiskt",2,Norrbotten
+13,"tydliggöra, biblioteksväsendet, allmänna biblioteksväsendet, allmänna, biblioteksverksamhet",3,Norrbotten
+14,"barn, biblioteket, förskolorna, boklån, sagostunder",6,Norrbotten
+16,"biblioteket, mötesplats, oavsett, människor, attraktiv mötesplats",6,Norrbotten
+17,"rätt, barn, barn rätt, barnkonventionen, januari 2020",3,Norrbotten
+18,"biblioteksbehovet, omfatta, biblioteksplan, styra reglera verksamheten kommunal nivå, gäller förbiblioteksverksamhet",1,Norrbotten
+19,"erbjuda, lust, kommunens invånare, läslust, exempelvis",2,Norrbotten
+21,"timmar, öppet, biblioteket, veckan, timmar vecka",2,Norrbotten
+22,"ansvarar, staten, ansvarar staten, enskilda, kommuner",3,Norrbotten
+23,"uppföljning, utvärdering, barn unga, uppföljning utvärdering, unga",2,Norrbotten
+24,"folkbiblioteken, tillgång, tid, kunskapsinhämtning lärande delaktighet kulturlivet, lärande delaktighet",2,Norrbotten
+26,"barn, biblioteket, unga, aktiviteter, fritiden",5,Norrbotten
+27,"via, produceras, talböcker, informera, låna talböcker",2,Norrbotten
+28,"lånecentraler, förfogande, avgiftsfritt, medieförsörjning finnas flera, medieförsörjning finnas",2,Norrbotten
+29,"personer, funktionsnedsättning, personer funktionsnedsättning, cd, talböcker",3,Norrbotten
+-1,"biblioteken, barn, samt, biblioteket, genom",126,Kronoberg
+0,"digitala, digitalt, biblioteken, digital, behov",18,Kronoberg
+1,"samverkan, kronoberg, blekinge, blekinge kronoberg, bibk",17,Kronoberg
+2,"biblioteksplan, 12, ljungby, växjö, 11",6,Kronoberg
+3,"språk, svenska, hylla, litteratur, modersmål",3,Kronoberg
+4,"folkbiblioteken, främja, läsning, allsidighet kvalitet folkbiblioteken särskilt, allsidighet kvalitet folkbiblioteken särskilt främja",1,Kronoberg
+5,"biblioteksplanen, ljungby, planen, biblioteksplan, se",4,Kronoberg
+6,"svenska, nationella, nationella minoritetsspråken, minoritetsspråken, annat",3,Kronoberg
+7,"procent, sysselsättningen, tingsryds, år, 83 procent",4,Kronoberg
+8,"kommun, stark, föreningsliv, trygghet, kommuns vision",4,Kronoberg
+9,"skolbibliotek, elevernas, tillgång, skolans, tillgång skolbibliotek",6,Kronoberg
+11,"region kronoberg, skolverket, kronoberg, region, 2017",8,Kronoberg
+12,"låntagare, kontrolluppgift adress förlorar, låntagare låna sitt namn kontrolluppgift, biblioteket närmiljö, förankra biblioteket",1,Kronoberg
+13,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",2,Kronoberg
+15,"barn ungas fritid, kompetensutveckling, ungas fritid, bemanning, bemanning utöka deltidstjänster heltid möjligt",3,Kronoberg
+16,"biblioteken, människor, sociala, möjliggöra bidrar biblioteken, professionellt bemötande antalet besökare",3,Kronoberg
+17,"barnets, rätt, rättigheter, barnkonventionen, barn",4,Kronoberg
+18,"svensk biblioteksförening, biblioteksförening, svensk, arbetet utveckling samverkan kvalitet 8bibliotekslag, 801 svensk biblioteksförening demokratiska samhällets",1,Kronoberg
+19,"biblioteken, biblioteken främja barns, biblioteken främja barns elevers, främja barns elevers, utifrån",2,Kronoberg
+21,"kl, timmar, mataffärens, öppettider vardagar kl, öppettider vardagar",2,Kronoberg
+22,"ansvarar, staten, ansvarar staten, kommuner, regional biblioteksverksamhet ansvarar",2,Kronoberg
+23,"utvecklings, enskilda aktiviteter, utvecklings insatsområdena, insatsområdena, aktiviteter",1,Kronoberg
+24,"folkbiblioteken, tid, regional biblioteksverksamhet, få, tillgång",1,Kronoberg
+28,"lånecentraler, förfogande, avgiftsfritt, medieförsörjning finnas, medieförsörjning finnas flera lånecentraler",2,Kronoberg
+29,"funktionsnedsättning, hinder, utgöra hinder, personer, personer funktionsnedsättning",2,Kronoberg
+-1,"biblioteket, barn, genom, biblioteken, bibliotek",825,Västra Götaland
+0,"digitala, digital, biblioteket, biblioteken, tjänster",71,Västra Götaland
+1,"samverkan, bibliotek, biblioteken, samarbetet, samarbete",64,Västra Götaland
+2,"biblioteksplan, kommun, 10, skolbibliotek, bibliotek",35,Västra Götaland
+3,"svenska, språk, böcker, andra, andra språk",15,Västra Götaland
+4,"folkbiblioteken, folkbiblioteket, främja, information, lärande",26,Västra Götaland
+5,"biblioteksplanen, biblioteksplan, kommun, planen, styrdokument",18,Västra Götaland
+6,"nationella, svenska, annat, minoritetsspråken, nationella minoritetsspråken",23,Västra Götaland
+7,"kommunen, år, karlsborg, kadsborg, kommun",7,Västra Götaland
+8,"kommun, strategiska, mål, strategiska mål, kommunens",9,Västra Götaland
+9,"skolbibliotek, elevernas, tillgång skolbibliotek, eleverna, tillgång",12,Västra Götaland
+10,"skolbibliotek, finns, elever, skola, grundskolor",19,Västra Götaland
+11,"stockholm, del lund, förlag sfs 2013 801, btj förlag sfs 2013, marknadsföring bibliotek",5,Västra Götaland
+12,"media, efterfrågan, medier, bibliotekets, skall",14,Västra Götaland
+13,"biblioteksväsendet, allmänna biblioteksväsendet, allmänna, biblioteken allmänna biblioteksväsendet, biblioteken allmänna",11,Västra Götaland
+14,"biblioteket, barn, år, in, böcker",16,Västra Götaland
+15,"nya, personalen, behöver, kunna, bibliotekens",11,Västra Götaland
+16,"biblioteket, människor, möten, plats, mötesplats",24,Västra Götaland
+17,"rätt, barn, barnkonventionen, barnets, rättigheter",9,Västra Götaland
+18,"biblioteksplan, kommun, sfs, bibliotekslagen, biblioteksplanen",13,Västra Götaland
+19,"biblioteket, olika, genom, litteratur, läsfrämjande",13,Västra Götaland
+21,"öppet, timmar, dagar, vecka, ",7,Västra Götaland
+22,"ansvarar, staten, ansvarar staten, kommuner, enskilda",15,Västra Götaland
+23,"uppföljning, utvärdering, årligen, görs, biblioteksplanen",6,Västra Götaland
+24,"folkbiblioteken, tid, tillgång, få, litteratur",14,Västra Götaland
+25,"biblioteket, finns, olika, andra, anpassade",8,Västra Götaland
+26,"barn, unga, barn unga, biblioteket, föräldrar",7,Västra Götaland
+27,"talböcker, böcker, mtm, biblioteket, myndigheten",9,Västra Götaland
+28,"lånecentraler, förfogande, avgiftsfritt, finnas, ställa litteratur",13,Västra Götaland
+29,"personer, funktionsnedsättning, anpassade, ägna särskild uppmärksamhet personer, särskild uppmärksamhet personer",6,Västra Götaland
+-1,"barn, biblioteket, olika, folkbiblioteket, genom",135,Gävleborg
+0,"digitala, it, it miljö, mik, kompetenshöjande",5,Gävleborg
+1,"samarbetspartners, lokala, lokala bokhandeln lokala museet, föreningar studieförbund lokala bokhandeln lokala, lokala bokhandeln lokala museet exempel",3,Gävleborg
+2,"hofors kommun, hofors, läsfrämjande insatser, kommun, 2023innehållsförteckning inledning biblioteksverksamhet hofors",2,Gävleborg
+3,"svenska, språk, andra, andra språk, böcker",4,Gävleborg
+4,"folkbiblioteken, folkbiblioteket, främja, verka, främja läsning tillgång litteratur folkbiblioteken",6,Gävleborg
+5,"biblioteksplan, biblioteksplanen, sandvikens, antogs, kommuns tidigare",3,Gävleborg
+6,"nationella, svenska, annat, allmänna biblioteksväsendet ägna särskild, allmänna biblioteksväsendet ägna",3,Gävleborg
+7,"äldre, år, befolkningen, 65 år, 65",2,Gävleborg
+8,"ockelbo, kommun, finns, välkomnar, respekt",8,Gävleborg
+9,"elevernas, skolbibliotek, tillgång skolbibliotek, skollagen, tillgång",3,Gävleborg
+10,"skolbibliotek, elever, kommunens, cirka, huvudbiblioteket",3,Gävleborg
+11,"sandvikens, stockholm, sandvikens kommun, kommun, kungliga biblioteket",15,Gävleborg
+12,"helge biblioteken, utbud media, helge, låntagarna, boken",1,Gävleborg
+13,"biblioteken allmänna biblioteksväsendet, biblioteken allmänna, allmänna biblioteksväsendet, biblioteksväsendet, allmänna",2,Gävleborg
+14,"barn, minst, år, barn unga, unga",2,Gävleborg
+17,"rätt, jämställdhet kvinnor män, jämställdhet kvinnor, fn konvention rättigheter personer funktionsnedsättning, fn konvention rättigheter",1,Gävleborg
+18,"sandvikens, sandvikens kommuns, sandvikens kommuns biblioteksplan, biblioteksplan, kommuns",1,Gävleborg
+19,"vuxna, biblioteket erbjuda, erbjuda, biblioteket, relevant",2,Gävleborg
+20,"helge, samarbetet, familjen, helsingborg, familjen helsingborg",7,Gävleborg
+21,"litteraturhuset, litteraturhuset trampolin, trampolin, timmar, öppet",2,Gävleborg
+22,"ansvarar, staten, kommuner, ansvarar staten, bestämmelserna kap skollagen 2010 800",2,Gävleborg
+23,"biblioteksplanen, plan, utvärdering, utvärderas, revideras",2,Gävleborg
+24,"folkbiblioteken, tid, få, tillgång, annat",1,Gävleborg
+25,"finnas lokalen behöver, zoner finnas lokalen behöver lugn, behöver lugn, tysta zoner finnas lokalen, tysta zoner finnas lokalen behöver",3,Gävleborg
+27,"talböcker, daisy talböcker, legimus, daisy, utlåning",2,Gävleborg
+28,"lånecentraler, områden anknyter, forskning universitetet, forskning universitetet högskolan, universitetet högskolan",2,Gävleborg
+29,"nedsatt, funktionsnedsättning, finska, finskspråkiga, variationer",2,Gävleborg
+-1,"biblioteket, barn, genom, bibliotek, finns",295,Örebro
+0,"digitala, digital, biblioteket, biblioteken, digitalt",21,Örebro
+1,"samverkan, örebro, bibliotek, län, örebro län",11,Örebro
+2,"biblioteksplan, bibliotekslagen, kommun, styrdokument, biblioteksverksamhet",6,Örebro
+3,"svenska, språk, andra språk, andra, biblioteket",9,Örebro
+4,"folkbiblioteken, tillgängliga anpassade användarnas behov, tillgängliga anpassade användarnas, tillgängliga anpassade, anpassade användarnas",8,Örebro
+5,"biblioteksplanen, biblioteksplan, styrdokument, hällefors, 2023",9,Örebro
+6,"svenska, nationella, annat, minoritetsspråken, nationella minoritetsspråken",8,Örebro
+7,"hällefors, kommun, befolkningen, kommunen, invånare",5,Örebro
+8,"kommunens, lindesbergs, kommunen, 2030, kommun",3,Örebro
+9,"skolbibliotek, elevernas, tillgång skolbibliotek, tillgång, eleverna",5,Örebro
+10,"skola, skolbibliotek, åk, möckelngymnasiet, f6",7,Örebro
+12,"media, medier, in, andra bibliotek, köps in",5,Örebro
+13,"allmänna biblioteksväsendet, biblioteksväsendet, allmänna, biblioteksverksamhet, biblioteken allmänna biblioteksväsendet",3,Örebro
+14,"biblioteket, barn, böcker, bjuds, bjuds in",11,Örebro
+15,"personalen, nya, metoder, bibliotek, kompetenser",6,Örebro
+16,"biblioteket, kultur, människor, eget skapande, skapande",5,Örebro
+17,"rätt, barn, rättigheter, barnets, fn",4,Örebro
+18,"organisera, https www, petra, via https www, via https",1,Örebro
+19,"biblioteket, läsfrämjande, budgetera medel föreläsningar författarbesök, budgetera medel föreläsningar, medel föreläsningar",4,Örebro
+21,"timmar, öppet, veckan, dagar, hällefors",2,Örebro
+22,"ansvarar, staten, ansvarar staten, enskilda, kommuner",6,Örebro
+23,"uppföljning, biblioteksplanen, sfs, kultur utbildningsnämnden, sker",4,Örebro
+24,"folkbiblioteken, tillgång, tid, få, allmänheten avgiftsfritt få",5,Örebro
+25,"biblioteket, besökare, således, besökare används utställningshall professionella, används utställningshall professionella",5,Örebro
+26,"barn, unga, barn unga, biblioteket, aktiviteter",7,Örebro
+27,"talböcker, mtm, tillgängliga, finns, myndigheten tillgängliga",6,Örebro
+28,"lånecentraler, högskolebibliotek, förfogande, finnas, avgiftsfritt",3,Örebro
+29,"funktionsnedsättning, personer, ta, personer funktionsnedsättning, kunna ta del",3,Örebro
