@@ -1,3 +1,5 @@
+import logging
+
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -6,6 +8,8 @@ from bertopic.backend._utils import select_backend
 from sentence_transformers import SentenceTransformer
 
 from topics.np import load_numpy
+
+logging.getLogger(__name__).addHandler(logging.NullHandler())
 
 
 def _filter_dataframe(df, column="Topic", values=None):
@@ -84,9 +88,13 @@ def get_topics_per_municipality(model_path="models/model_mp_30/"):
 
 @st.cache(allow_output_mutation=True)
 def get_topic_model(model_path="models/model_mp_30/"):
-    sentence_model = SentenceTransformer(model_path, device="cpu")
-    model = select_backend(sentence_model)
-    topic_model = BERTopic.load(model_path + "model", embedding_model=model)
+    logging.error("Before SentenceTransformer")
+    # model = SentenceTransformer(model_path)  # , device="cpu")
+    # logging.error("Loaded SentenceTransformer")
+    # model = select_backend(sentence_model)
+    logging.error("Loading BERTopic")
+    topic_model = BERTopic.load(model_path + "model")  # , embedding_model=model)
+    logging.error("Loaded BERTopic")
     return topic_model
 
 
@@ -103,6 +111,5 @@ def get_topic_info(model_path):
         columns={"Topic": "Topic", "Name": "Words", "Count": "Frequency"},
         inplace=True,
     )
-
     df.reset_index(inplace=True, drop=True)
     return df
