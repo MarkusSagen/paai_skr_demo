@@ -59,6 +59,10 @@
 
 ## Notes:
 - mp seem slightly better than kb as topic models
+- For deployment:
+  - Don't save embedding model for BERTopic
+  - Don't load the embedding model
+  - Ensure python version >= 3.8
 
 ## DONE:
 - [ ] Download most of the PDFs and made list of which ones are missing

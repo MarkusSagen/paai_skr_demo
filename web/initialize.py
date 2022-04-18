@@ -88,13 +88,12 @@ def get_topics_per_municipality(model_path="models/model_mp_30/"):
 
 @st.cache(allow_output_mutation=True)
 def get_topic_model(model_path="models/model_mp_30/"):
-    logging.error("Before SentenceTransformer")
     # model = SentenceTransformer(model_path)  # , device="cpu")
     # logging.error("Loaded SentenceTransformer")
     # model = select_backend(sentence_model)
-    logging.error("Loading BERTopic")
+    logging.info("Loading BERTopic")
     topic_model = BERTopic.load(model_path + "model")  # , embedding_model=model)
-    logging.error("Loaded BERTopic")
+    logging.info("Loaded BERTopic")
     return topic_model
 
 

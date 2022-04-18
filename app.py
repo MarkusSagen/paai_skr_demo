@@ -93,6 +93,7 @@ with main:
     st.markdown("<div id='linkto_top'></div>", unsafe_allow_html=True)
     # Show initial graphic
     if show_topic_info:
+        st.header("Ämnen som beskrivs och hur ofta")
         st.plotly_chart(
             visualize_topics_per_class(
                 topic_model=topic_model,
@@ -108,12 +109,14 @@ with main:
             )
         )
     if show_topics_per_region:
+        st.header("Ämnen per region")
         visualize_topics(
             topic_model=topic_model,
             topics_per_region=topics_per_region,
             topic_info=topic_info,
         )
     if show_topics_hierarcy:
+        st.header("Hur ämnena har delats upp")
         st.plotly_chart(topic_model.visualize_hierarchy(), use_container_width=True)
 
     st.header("Texter från varje ämnen")
