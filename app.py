@@ -9,16 +9,9 @@ from PIL import Image
 
 # Our custom functions
 from web.display import display_topics_by_paragraphs
-from web.initialize import (
-    get_df,
-    get_probs,
-    get_probs_index_by_topic,
-    get_topic_info,
-    get_topic_model,
-    get_topics,
-    get_topics_per_municipality,
-    get_topics_per_region,
-)
+from web.initialize import (get_df, get_probs, get_probs_index_by_topic,
+                            get_topic_info, get_topic_model, get_topics,
+                            get_topics_per_municipality, get_topics_per_region)
 from web.select import create_topic_index_selection
 from web.streamlit_util import css_import
 from web.visualize import visualize_topics, visualize_topics_per_class
@@ -41,9 +34,7 @@ probs = get_probs(model_path=MODEL_PATH)
 probs_index_by_topic = get_probs_index_by_topic(model_path=MODEL_PATH)
 topics_per_region = get_topics_per_region(model_path=MODEL_PATH)
 topics_per_municipality = get_topics_per_municipality(model_path=MODEL_PATH)
-topic_model = get_topic_model(
-    model_path=MODEL_PATH, model_name="paraphrase-multilingual-mpnet-base-v2"
-)
+topic_model = get_topic_model(model_path=MODEL_PATH)
 topic_info = get_topic_info(model_path=MODEL_PATH)
 num_probs = len(probs)
 num_topics = len(topics)
@@ -149,7 +140,6 @@ with main:
             )
     st.markdown("<div id='linkto_bottom'></div>", unsafe_allow_html=True)
     st.markdown("<a href='#linkto_top'>Link to top</a>", unsafe_allow_html=True)
-
 
 # TODO: Metrics
 # example_column_with_css()
