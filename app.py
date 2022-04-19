@@ -9,9 +9,16 @@ from PIL import Image
 
 # Our custom functions
 from web.display import display_topics_by_paragraphs
-from web.initialize import (get_df, get_probs, get_probs_index_by_topic,
-                            get_topic_info, get_topic_model, get_topics,
-                            get_topics_per_municipality, get_topics_per_region)
+from web.initialize import (
+    get_df,
+    get_probs,
+    get_probs_index_by_topic,
+    get_topic_info,
+    get_topic_model,
+    get_topics,
+    get_topics_per_municipality,
+    get_topics_per_region,
+)
 from web.select import create_topic_index_selection
 from web.streamlit_util import css_import
 from web.visualize import visualize_topics, visualize_topics_per_class
@@ -25,7 +32,7 @@ img = Image.open("./web/icon.png")
 st.set_page_config(page_title="SKR Topic Discovery", page_icon=img, layout="wide")
 
 # Define padding and columns
-padding_left, main, padding_right = st.columns((2, 8, 2))
+padding_left, main, padding_right = st.columns((1, 8, 1))
 
 # Initialize
 df = get_df(input_data=DATAFRAME_PATH)
@@ -40,6 +47,8 @@ num_probs = len(probs)
 num_topics = len(topics)
 
 
+plotly_config = {"displayModeBar": True}
+
 # Sidebar and options
 with st.sidebar:
     st.image(img)
@@ -52,10 +61,10 @@ with st.sidebar:
     st.markdown("-----------")
 
     # Choose first graphics
-    st.markdown("### Visa graf:")
-    show_topic_info = st.checkbox("Antal biblioteksplaner per ämne", value=True)
-    show_topics_per_region = st.checkbox("Antal regioner per ämne")
-    show_topics_hierarcy = st.checkbox("Hur ämnes indelningen gjorts")
+    st.markdown("### Visa graf")
+    show_topics_per_region = st.checkbox("Antal regioner per ämne", value=True)
+    show_topic_info = st.checkbox("Antal biblioteksplaner per ämne")
+    show_topics_hierarcy = st.checkbox("Hur ämnesindelningen gjorts")
     st.markdown("-----------")
 
     # Show search and filter
@@ -71,7 +80,7 @@ with st.sidebar:
     #     )
     # else:
     selected_regions = c.multiselect(
-        "Välj Regioner:", list(df["region"].unique()), "Stockholm"
+        "Välj regioner", list(df["region"].unique()), "Stockholm"
     )
 
     # Selections
@@ -92,6 +101,14 @@ with st.sidebar:
 with main:
     st.markdown("<div id='linkto_top'></div>", unsafe_allow_html=True)
     # Show initial graphic
+    if show_topics_per_region:
+        st.header("Ämnen per region")
+        visualize_topics(
+            topic_model=topic_model,
+            topics_per_region=topics_per_region,
+            topic_info=topic_info,
+            config=plotly_config,
+        )
     if show_topic_info:
         st.header("Ämnen som beskrivs och hur ofta")
         st.plotly_chart(
@@ -106,14 +123,8 @@ with main:
                 # TODO:
                 # - Pass in text for header and aside
                 # - Make the sidebar selection effect the visualization
-            )
-        )
-    if show_topics_per_region:
-        st.header("Ämnen per region")
-        visualize_topics(
-            topic_model=topic_model,
-            topics_per_region=topics_per_region,
-            topic_info=topic_info,
+            ),
+            config=plotly_config,
         )
     if show_topics_hierarcy:
         st.header("Hur ämnena har delats upp")

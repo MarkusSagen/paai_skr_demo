@@ -22,9 +22,9 @@ def _make_fig(topic_model, topics_per_region, topic_info):
     return cached_dict
 
 
-def visualize_topics(topic_model, topics_per_region, topic_info):
+def visualize_topics(topic_model, topics_per_region, topic_info, config):
     charts = _make_fig(topic_model, topics_per_region, topic_info)
-    st.plotly_chart(charts["per_regions"], use_container_width=True)
+    st.plotly_chart(charts["per_regions"], use_container_width=True, config=config)
 
 
 def visualize_topics_per_class(
