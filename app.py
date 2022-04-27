@@ -97,12 +97,30 @@ with st.sidebar:
     st.markdown("<a href='#linkto_top'>Link to top</a>", unsafe_allow_html=True)
     st.markdown("<a href='#linkto_bottom'>Link to bottom</a>", unsafe_allow_html=True)
 
+
 # Context of paragraphs for each topic
 with main:
     st.markdown("<div id='linkto_top'></div>", unsafe_allow_html=True)
     # Show initial graphic
     if show_topics_per_region:
-        st.header("Ämnen per region")
+        st.header("Sök tematiskt i kommunernas biblioteksplaner")
+        st.markdown(
+            """
+            De teman/ämnen som presenteras i rullgardinsmenyerna och denna applikation är framtagna med hjälp av
+            AI/språkteknologi, genom så kallat oövervakat lärande (unsupervised learning).
+            Ingen mänsklig hand har lagts vid den tematiska indelningen av textavsnitten i biblioteksplanerna.
+            """
+        )
+        st.markdown(
+            """
+            Webbapplikationen är en första prototyp som vi gärna tar in synpunkter på.<br>
+            Lämna dina synpunkter, frågor och kommentarer på webbapplikationen här:<br>
+
+            ##### [Frågeformulär](https://forms.gle/T9QchwsKsUeBLFbz6)
+            ----
+            """,
+            unsafe_allow_html=True,
+        )
         visualize_topics(
             topic_model=topic_model,
             topics_per_region=topics_per_region,
@@ -161,3 +179,12 @@ with main:
 # ---------
 # Escape the sandbox
 css_import("web/css/style.css")
+
+st.markdown(
+    f"""
+    <style>
+        section[data-testid="stSidebar"] .css-1adrfps  {{width: 26rem;}}
+    </style>
+""",
+    unsafe_allow_html=True,
+)
