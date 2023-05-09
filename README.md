@@ -1,18 +1,21 @@
 
 ## Setup
 
+   ```shell
+   git clone git@github.com:MarkusSagen/paai_skr_demo.git
+   cd paai_skr_demo
+   ```
+
 1. Create Virtual environment
 
    ```shell
-   pyenv virtualenv 3.8.5 skr
+   python -m venv skr
+   source skr/bin/activate
    ```
 
 2. Install pre-requisites:
 
    ```shell
-   git clone git@github.com:Peltarion/ai_skr_qa.git
-   cd ai_skr_qa
-   # pyenv local skr
    pip install -r requirements.txt
    ```
 
